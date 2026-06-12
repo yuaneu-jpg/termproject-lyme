@@ -1,0 +1,1601 @@
+state,year,date_code,period,avg_temp_F,source_file,original_file_period_note
+Alabama,1992,199204,May-April,63.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,1993,199304,May-April,61.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,1994,199404,May-April,62.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,1995,199504,May-April,63.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,1996,199604,May-April,62.0,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,1997,199704,May-April,63.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,1998,199804,May-April,62.0,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,1999,199904,May-April,65.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2000,200004,May-April,63.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2001,200104,May-April,62.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2002,200204,May-April,63.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2003,200304,May-April,63.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2004,200404,May-April,62.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2005,200504,May-April,63.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2006,200604,May-April,63.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2007,200704,May-April,63.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2008,200804,May-April,64.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2009,200904,May-April,63.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2010,201004,May-April,61.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2011,201104,May-April,64.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2012,201204,May-April,65.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2013,201304,May-April,63.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2014,201404,May-April,61.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2015,201504,May-April,62.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2016,201604,May-April,65.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2017,201704,May-April,66.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2018,201804,May-April,63.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2019,201904,May-April,65.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2020,202004,May-April,65.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2021,202104,May-April,63.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2022,202204,May-April,64.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Alabama,2023,202304,May-April,65.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,1992,199204,May-April,26.5,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,1993,199304,May-April,26.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,1994,199404,May-April,28.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,1995,199504,May-April,26.5,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,1996,199604,May-April,27.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,1997,199704,May-April,25.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,1998,199804,May-April,29.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,1999,199904,May-April,25.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2000,200004,May-April,26.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2001,200104,May-April,29.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2002,200204,May-April,26.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2003,200304,May-April,31.0,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2004,200404,May-April,27.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2005,200504,May-April,30.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2006,200604,May-April,27.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2007,200704,May-April,26.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2008,200804,May-April,27.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2009,200904,May-April,24.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2010,201004,May-April,27.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2011,201104,May-April,27.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2012,201204,May-April,25.5,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2013,201304,May-April,25.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2014,201404,May-April,29.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2015,201504,May-April,30.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2016,201604,May-April,31.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2017,201704,May-April,28.5,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2018,201804,May-April,30.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2019,201904,May-April,31.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2020,202004,May-April,28.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2021,202104,May-April,28.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2022,202204,May-April,27.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Alaska,2023,202304,May-April,28.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,1992,199204,May-April,59.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,1993,199304,May-April,59.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,1994,199404,May-April,59.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,1995,199504,May-April,60.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,1996,199604,May-April,61.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,1997,199704,May-April,61.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,1998,199804,May-April,59.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,1999,199904,May-April,60.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2000,200004,May-April,61.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2001,200104,May-April,60.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2002,200204,May-April,61.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2003,200304,May-April,61.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2004,200404,May-April,61.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2005,200504,May-April,60.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2006,200604,May-April,61.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2007,200704,May-April,61.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2008,200804,May-April,61.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2009,200904,May-April,61.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2010,201004,May-April,60.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2011,201104,May-April,60.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2012,201204,May-April,61.0,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2013,201304,May-April,61.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2014,201404,May-April,61.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2015,201504,May-April,62.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2016,201604,May-April,61.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2017,201704,May-April,62.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2018,201804,May-April,63.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2019,201904,May-April,61.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2020,202004,May-April,60.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2021,202104,May-April,62.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2022,202204,May-April,62.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Arizona,2023,202304,May-April,60.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,1992,199204,May-April,61.5,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,1993,199304,May-April,58.5,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,1994,199404,May-April,60.0,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,1995,199504,May-April,60.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,1996,199604,May-April,59.5,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,1997,199704,May-April,60.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,1998,199804,May-April,60.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,1999,199904,May-April,63.5,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2000,200004,May-April,62.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2001,200104,May-April,60.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2002,200204,May-April,61.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2003,200304,May-April,60.0,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2004,200404,May-April,61.0,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2005,200504,May-April,61.5,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2006,200604,May-April,62.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2007,200704,May-April,61.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2008,200804,May-April,61.4,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2009,200904,May-April,60.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2010,201004,May-April,59.0,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2011,201104,May-April,62.1,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2012,201204,May-April,63.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2013,201304,May-April,61.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2014,201404,May-April,58.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2015,201504,May-April,59.2,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2016,201604,May-April,62.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2017,201704,May-April,63.9,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2018,201804,May-April,60.3,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2019,201904,May-April,61.7,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2020,202004,May-April,61.8,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2021,202104,May-April,60.0,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2022,202204,May-April,61.6,combined_state_average_temperature_sample.csv,from precombined sample file
+Arkansas,2023,202304,May-April,62.5,combined_state_average_temperature_sample.csv,from precombined sample file
+California,1992,199205,June-May,59.7,data (6).csv,from NOAA state CSV
+California,1993,199305,June-May,58.2,data (6).csv,from NOAA state CSV
+California,1994,199405,June-May,58,data (6).csv,from NOAA state CSV
+California,1995,199505,June-May,57.7,data (6).csv,from NOAA state CSV
+California,1996,199605,June-May,59.7,data (6).csv,from NOAA state CSV
+California,1997,199705,June-May,59.8,data (6).csv,from NOAA state CSV
+California,1998,199805,June-May,57.1,data (6).csv,from NOAA state CSV
+California,1999,199905,June-May,57.1,data (6).csv,from NOAA state CSV
+California,2000,200005,June-May,59.3,data (6).csv,from NOAA state CSV
+California,2001,200105,June-May,58.3,data (6).csv,from NOAA state CSV
+California,2002,200205,June-May,59,data (6).csv,from NOAA state CSV
+California,2003,200305,June-May,59.1,data (6).csv,from NOAA state CSV
+California,2004,200405,June-May,59.9,data (6).csv,from NOAA state CSV
+California,2005,200505,June-May,58.2,data (6).csv,from NOAA state CSV
+California,2006,200605,June-May,58.3,data (6).csv,from NOAA state CSV
+California,2007,200705,June-May,59.4,data (6).csv,from NOAA state CSV
+California,2008,200805,June-May,58.1,data (6).csv,from NOAA state CSV
+California,2009,200905,June-May,59.7,data (6).csv,from NOAA state CSV
+California,2010,201005,June-May,57.7,data (6).csv,from NOAA state CSV
+California,2011,201105,June-May,57.7,data (6).csv,from NOAA state CSV
+California,2012,201205,June-May,58.5,data (6).csv,from NOAA state CSV
+California,2013,201305,June-May,59.7,data (6).csv,from NOAA state CSV
+California,2014,201405,June-May,60.4,data (6).csv,from NOAA state CSV
+California,2015,201505,June-May,61.5,data (6).csv,from NOAA state CSV
+California,2016,201605,June-May,60.2,data (6).csv,from NOAA state CSV
+California,2017,201705,June-May,59.6,data (6).csv,from NOAA state CSV
+California,2018,201805,June-May,60.6,data (6).csv,from NOAA state CSV
+California,2019,201905,June-May,59.1,data (6).csv,from NOAA state CSV
+California,2020,202005,June-May,59.4,data (6).csv,from NOAA state CSV
+California,2021,202105,June-May,60.5,data (6).csv,from NOAA state CSV
+California,2022,202205,June-May,60.4,data (6).csv,from NOAA state CSV
+California,2023,202305,June-May,58.6,data (6).csv,from NOAA state CSV
+Colorado,1992,199205,June-May,46.1,data (7).csv,from NOAA state CSV
+Colorado,1993,199305,June-May,43.8,data (7).csv,from NOAA state CSV
+Colorado,1994,199405,June-May,44.7,data (7).csv,from NOAA state CSV
+Colorado,1995,199505,June-May,46.1,data (7).csv,from NOAA state CSV
+Colorado,1996,199605,June-May,46,data (7).csv,from NOAA state CSV
+Colorado,1997,199705,June-May,45.2,data (7).csv,from NOAA state CSV
+Colorado,1998,199805,June-May,45.3,data (7).csv,from NOAA state CSV
+Colorado,1999,199905,June-May,46.8,data (7).csv,from NOAA state CSV
+Colorado,2000,200005,June-May,47.4,data (7).csv,from NOAA state CSV
+Colorado,2001,200105,June-May,45.9,data (7).csv,from NOAA state CSV
+Colorado,2002,200205,June-May,46.6,data (7).csv,from NOAA state CSV
+Colorado,2003,200305,June-May,46.8,data (7).csv,from NOAA state CSV
+Colorado,2004,200405,June-May,47,data (7).csv,from NOAA state CSV
+Colorado,2005,200505,June-May,45.8,data (7).csv,from NOAA state CSV
+Colorado,2006,200605,June-May,47,data (7).csv,from NOAA state CSV
+Colorado,2007,200705,June-May,45.6,data (7).csv,from NOAA state CSV
+Colorado,2008,200805,June-May,45.3,data (7).csv,from NOAA state CSV
+Colorado,2009,200905,June-May,46.6,data (7).csv,from NOAA state CSV
+Colorado,2010,201005,June-May,44,data (7).csv,from NOAA state CSV
+Colorado,2011,201105,June-May,46,data (7).csv,from NOAA state CSV
+Colorado,2012,201205,June-May,47.4,data (7).csv,from NOAA state CSV
+Colorado,2013,201305,June-May,46.1,data (7).csv,from NOAA state CSV
+Colorado,2014,201405,June-May,45.9,data (7).csv,from NOAA state CSV
+Colorado,2015,201505,June-May,46.9,data (7).csv,from NOAA state CSV
+Colorado,2016,201605,June-May,46.9,data (7).csv,from NOAA state CSV
+Colorado,2017,201705,June-May,48,data (7).csv,from NOAA state CSV
+Colorado,2018,201805,June-May,47.8,data (7).csv,from NOAA state CSV
+Colorado,2019,201905,June-May,45.6,data (7).csv,from NOAA state CSV
+Colorado,2020,202005,June-May,46.4,data (7).csv,from NOAA state CSV
+Colorado,2021,202105,June-May,46.6,data (7).csv,from NOAA state CSV
+Colorado,2022,202205,June-May,47.6,data (7).csv,from NOAA state CSV
+Colorado,2023,202305,June-May,45.4,data (7).csv,from NOAA state CSV
+Connecticut,1992,199205,June-May,49.3,data (8).csv,from NOAA state CSV
+Connecticut,1993,199305,June-May,47.6,data (8).csv,from NOAA state CSV
+Connecticut,1994,199405,June-May,47.8,data (8).csv,from NOAA state CSV
+Connecticut,1995,199505,June-May,50.3,data (8).csv,from NOAA state CSV
+Connecticut,1996,199605,June-May,48.2,data (8).csv,from NOAA state CSV
+Connecticut,1997,199705,June-May,49,data (8).csv,from NOAA state CSV
+Connecticut,1998,199805,June-May,50.4,data (8).csv,from NOAA state CSV
+Connecticut,1999,199905,June-May,50.4,data (8).csv,from NOAA state CSV
+Connecticut,2000,200005,June-May,50.8,data (8).csv,from NOAA state CSV
+Connecticut,2001,200105,June-May,48.1,data (8).csv,from NOAA state CSV
+Connecticut,2002,200205,June-May,51.5,data (8).csv,from NOAA state CSV
+Connecticut,2003,200305,June-May,47.9,data (8).csv,from NOAA state CSV
+Connecticut,2004,200405,June-May,49.2,data (8).csv,from NOAA state CSV
+Connecticut,2005,200505,June-May,48.4,data (8).csv,from NOAA state CSV
+Connecticut,2006,200605,June-May,51,data (8).csv,from NOAA state CSV
+Connecticut,2007,200705,June-May,50.1,data (8).csv,from NOAA state CSV
+Connecticut,2008,200805,June-May,50.1,data (8).csv,from NOAA state CSV
+Connecticut,2009,200905,June-May,49.2,data (8).csv,from NOAA state CSV
+Connecticut,2010,201005,June-May,50.3,data (8).csv,from NOAA state CSV
+Connecticut,2011,201105,June-May,50,data (8).csv,from NOAA state CSV
+Connecticut,2012,201205,June-May,53.2,data (8).csv,from NOAA state CSV
+Connecticut,2013,201305,June-May,50.4,data (8).csv,from NOAA state CSV
+Connecticut,2014,201405,June-May,48.5,data (8).csv,from NOAA state CSV
+Connecticut,2015,201505,June-May,48.3,data (8).csv,from NOAA state CSV
+Connecticut,2016,201605,June-May,52.4,data (8).csv,from NOAA state CSV
+Connecticut,2017,201705,June-May,51.7,data (8).csv,from NOAA state CSV
+Connecticut,2018,201805,June-May,50.4,data (8).csv,from NOAA state CSV
+Connecticut,2019,201905,June-May,50.4,data (8).csv,from NOAA state CSV
+Connecticut,2020,202005,June-May,50.6,data (8).csv,from NOAA state CSV
+Connecticut,2021,202105,June-May,51.3,data (8).csv,from NOAA state CSV
+Connecticut,2022,202205,June-May,51.3,data (8).csv,from NOAA state CSV
+Connecticut,2023,202305,June-May,52.3,data (8).csv,from NOAA state CSV
+Delaware,1992,199205,June-May,55.2,data (9).csv,from NOAA state CSV
+Delaware,1993,199305,June-May,53.9,data (9).csv,from NOAA state CSV
+Delaware,1994,199405,June-May,54.5,data (9).csv,from NOAA state CSV
+Delaware,1995,199505,June-May,55.9,data (9).csv,from NOAA state CSV
+Delaware,1996,199605,June-May,54.2,data (9).csv,from NOAA state CSV
+Delaware,1997,199705,June-May,54.9,data (9).csv,from NOAA state CSV
+Delaware,1998,199805,June-May,56.3,data (9).csv,from NOAA state CSV
+Delaware,1999,199905,June-May,56.3,data (9).csv,from NOAA state CSV
+Delaware,2000,200005,June-May,56.8,data (9).csv,from NOAA state CSV
+Delaware,2001,200105,June-May,54.1,data (9).csv,from NOAA state CSV
+Delaware,2002,200205,June-May,57.5,data (9).csv,from NOAA state CSV
+Delaware,2003,200305,June-May,54.7,data (9).csv,from NOAA state CSV
+Delaware,2004,200405,June-May,56,data (9).csv,from NOAA state CSV
+Delaware,2005,200505,June-May,54.9,data (9).csv,from NOAA state CSV
+Delaware,2006,200605,June-May,57.3,data (9).csv,from NOAA state CSV
+Delaware,2007,200705,June-May,56.3,data (9).csv,from NOAA state CSV
+Delaware,2008,200805,June-May,56.9,data (9).csv,from NOAA state CSV
+Delaware,2009,200905,June-May,55.8,data (9).csv,from NOAA state CSV
+Delaware,2010,201005,June-May,55.9,data (9).csv,from NOAA state CSV
+Delaware,2011,201105,June-May,56.7,data (9).csv,from NOAA state CSV
+Delaware,2012,201205,June-May,59,data (9).csv,from NOAA state CSV
+Delaware,2013,201305,June-May,56.5,data (9).csv,from NOAA state CSV
+Delaware,2014,201405,June-May,54.9,data (9).csv,from NOAA state CSV
+Delaware,2015,201505,June-May,54.7,data (9).csv,from NOAA state CSV
+Delaware,2016,201605,June-May,57.8,data (9).csv,from NOAA state CSV
+Delaware,2017,201705,June-May,58.4,data (9).csv,from NOAA state CSV
+Delaware,2018,201805,June-May,56.5,data (9).csv,from NOAA state CSV
+Delaware,2019,201905,June-May,57.7,data (9).csv,from NOAA state CSV
+Delaware,2020,202005,June-May,57.6,data (9).csv,from NOAA state CSV
+Delaware,2021,202105,June-May,57.5,data (9).csv,from NOAA state CSV
+Delaware,2022,202205,June-May,57.3,data (9).csv,from NOAA state CSV
+Delaware,2023,202305,June-May,57.8,data (9).csv,from NOAA state CSV
+Florida,1992,199205,June-May,70.2,data (10).csv,from NOAA state CSV
+Florida,1993,199305,June-May,70.4,data (10).csv,from NOAA state CSV
+Florida,1994,199405,June-May,71.2,data (10).csv,from NOAA state CSV
+Florida,1995,199505,June-May,71.2,data (10).csv,from NOAA state CSV
+Florida,1996,199605,June-May,70,data (10).csv,from NOAA state CSV
+Florida,1997,199705,June-May,71.3,data (10).csv,from NOAA state CSV
+Florida,1998,199805,June-May,70.5,data (10).csv,from NOAA state CSV
+Florida,1999,199905,June-May,72.7,data (10).csv,from NOAA state CSV
+Florida,2000,200005,June-May,71.1,data (10).csv,from NOAA state CSV
+Florida,2001,200105,June-May,70.2,data (10).csv,from NOAA state CSV
+Florida,2002,200205,June-May,71.6,data (10).csv,from NOAA state CSV
+Florida,2003,200305,June-May,70.9,data (10).csv,from NOAA state CSV
+Florida,2004,200405,June-May,70.4,data (10).csv,from NOAA state CSV
+Florida,2005,200505,June-May,70.8,data (10).csv,from NOAA state CSV
+Florida,2006,200605,June-May,71.4,data (10).csv,from NOAA state CSV
+Florida,2007,200705,June-May,71.1,data (10).csv,from NOAA state CSV
+Florida,2008,200805,June-May,72,data (10).csv,from NOAA state CSV
+Florida,2009,200905,June-May,70.3,data (10).csv,from NOAA state CSV
+Florida,2010,201005,June-May,70,data (10).csv,from NOAA state CSV
+Florida,2011,201105,June-May,70.9,data (10).csv,from NOAA state CSV
+Florida,2012,201205,June-May,72.5,data (10).csv,from NOAA state CSV
+Florida,2013,201305,June-May,70.9,data (10).csv,from NOAA state CSV
+Florida,2014,201405,June-May,71.4,data (10).csv,from NOAA state CSV
+Florida,2015,201505,June-May,71.5,data (10).csv,from NOAA state CSV
+Florida,2016,201605,June-May,73,data (10).csv,from NOAA state CSV
+Florida,2017,201705,June-May,73.4,data (10).csv,from NOAA state CSV
+Florida,2018,201805,June-May,72,data (10).csv,from NOAA state CSV
+Florida,2019,201905,June-May,72.9,data (10).csv,from NOAA state CSV
+Florida,2020,202005,June-May,73.5,data (10).csv,from NOAA state CSV
+Florida,2021,202105,June-May,72.5,data (10).csv,from NOAA state CSV
+Florida,2022,202205,June-May,72.4,data (10).csv,from NOAA state CSV
+Florida,2023,202305,June-May,73.2,data (10).csv,from NOAA state CSV
+Georgia,1992,199205,June-May,63.3,data (11).csv,from NOAA state CSV
+Georgia,1993,199305,June-May,62.4,data (11).csv,from NOAA state CSV
+Georgia,1994,199405,June-May,63.8,data (11).csv,from NOAA state CSV
+Georgia,1995,199505,June-May,64,data (11).csv,from NOAA state CSV
+Georgia,1996,199605,June-May,62.6,data (11).csv,from NOAA state CSV
+Georgia,1997,199705,June-May,63.6,data (11).csv,from NOAA state CSV
+Georgia,1998,199805,June-May,63.2,data (11).csv,from NOAA state CSV
+Georgia,1999,199905,June-May,65.8,data (11).csv,from NOAA state CSV
+Georgia,2000,200005,June-May,64.5,data (11).csv,from NOAA state CSV
+Georgia,2001,200105,June-May,62.9,data (11).csv,from NOAA state CSV
+Georgia,2002,200205,June-May,64.4,data (11).csv,from NOAA state CSV
+Georgia,2003,200305,June-May,63.8,data (11).csv,from NOAA state CSV
+Georgia,2004,200405,June-May,63.4,data (11).csv,from NOAA state CSV
+Georgia,2005,200505,June-May,63.7,data (11).csv,from NOAA state CSV
+Georgia,2006,200605,June-May,64.6,data (11).csv,from NOAA state CSV
+Georgia,2007,200705,June-May,64.1,data (11).csv,from NOAA state CSV
+Georgia,2008,200805,June-May,64.5,data (11).csv,from NOAA state CSV
+Georgia,2009,200905,June-May,63.5,data (11).csv,from NOAA state CSV
+Georgia,2010,201005,June-May,62.6,data (11).csv,from NOAA state CSV
+Georgia,2011,201105,June-May,64.1,data (11).csv,from NOAA state CSV
+Georgia,2012,201205,June-May,66.2,data (11).csv,from NOAA state CSV
+Georgia,2013,201305,June-May,63.5,data (11).csv,from NOAA state CSV
+Georgia,2014,201405,June-May,62.9,data (11).csv,from NOAA state CSV
+Georgia,2015,201505,June-May,63.7,data (11).csv,from NOAA state CSV
+Georgia,2016,201605,June-May,65.6,data (11).csv,from NOAA state CSV
+Georgia,2017,201705,June-May,67.2,data (11).csv,from NOAA state CSV
+Georgia,2018,201805,June-May,64.5,data (11).csv,from NOAA state CSV
+Georgia,2019,201905,June-May,66,data (11).csv,from NOAA state CSV
+Georgia,2020,202005,June-May,66.1,data (11).csv,from NOAA state CSV
+Georgia,2021,202105,June-May,64.8,data (11).csv,from NOAA state CSV
+Georgia,2022,202205,June-May,65,data (11).csv,from NOAA state CSV
+Georgia,2023,202305,June-May,65.5,data (11).csv,from NOAA state CSV
+Hawaii,1992,199205,June-May,65.7,data (12).csv,from NOAA state CSV
+Hawaii,1993,199305,June-May,65.6,data (12).csv,from NOAA state CSV
+Hawaii,1994,199405,June-May,65.3,data (12).csv,from NOAA state CSV
+Hawaii,1995,199505,June-May,65.9,data (12).csv,from NOAA state CSV
+Hawaii,1996,199605,June-May,66.3,data (12).csv,from NOAA state CSV
+Hawaii,1997,199705,June-May,66.1,data (12).csv,from NOAA state CSV
+Hawaii,1998,199805,June-May,65.4,data (12).csv,from NOAA state CSV
+Hawaii,1999,199905,June-May,65,data (12).csv,from NOAA state CSV
+Hawaii,2000,200005,June-May,65.6,data (12).csv,from NOAA state CSV
+Hawaii,2001,200105,June-May,66.3,data (12).csv,from NOAA state CSV
+Hawaii,2002,200205,June-May,66.6,data (12).csv,from NOAA state CSV
+Hawaii,2003,200305,June-May,66.7,data (12).csv,from NOAA state CSV
+Hawaii,2004,200405,June-May,67.1,data (12).csv,from NOAA state CSV
+Hawaii,2005,200505,June-May,66.9,data (12).csv,from NOAA state CSV
+Hawaii,2006,200605,June-May,66.3,data (12).csv,from NOAA state CSV
+Hawaii,2007,200705,June-May,66.6,data (12).csv,from NOAA state CSV
+Hawaii,2008,200805,June-May,65.9,data (12).csv,from NOAA state CSV
+Hawaii,2009,200905,June-May,65.3,data (12).csv,from NOAA state CSV
+Hawaii,2010,201005,June-May,66.6,data (12).csv,from NOAA state CSV
+Hawaii,2011,201105,June-May,66.3,data (12).csv,from NOAA state CSV
+Hawaii,2012,201205,June-May,65.6,data (12).csv,from NOAA state CSV
+Hawaii,2013,201305,June-May,65.8,data (12).csv,from NOAA state CSV
+Hawaii,2014,201405,June-May,66.7,data (12).csv,from NOAA state CSV
+Hawaii,2015,201505,June-May,66.7,data (12).csv,from NOAA state CSV
+Hawaii,2016,201605,June-May,67.5,data (12).csv,from NOAA state CSV
+Hawaii,2017,201705,June-May,66.8,data (12).csv,from NOAA state CSV
+Hawaii,2018,201805,June-May,66.6,data (12).csv,from NOAA state CSV
+Hawaii,2019,201905,June-May,66.9,data (12).csv,from NOAA state CSV
+Hawaii,2020,202005,June-May,67.9,data (12).csv,from NOAA state CSV
+Hawaii,2021,202105,June-May,66.9,data (12).csv,from NOAA state CSV
+Hawaii,2022,202205,June-May,66.7,data (12).csv,from NOAA state CSV
+Hawaii,2023,202305,June-May,66.7,data (12).csv,from NOAA state CSV
+Idaho,1992,199205,June-May,45.6,data (13).csv,from NOAA state CSV
+Idaho,1993,199305,June-May,42.3,data (13).csv,from NOAA state CSV
+Idaho,1994,199405,June-May,42.4,data (13).csv,from NOAA state CSV
+Idaho,1995,199505,June-May,43.8,data (13).csv,from NOAA state CSV
+Idaho,1996,199605,June-May,43,data (13).csv,from NOAA state CSV
+Idaho,1997,199705,June-May,43.4,data (13).csv,from NOAA state CSV
+Idaho,1998,199805,June-May,43.7,data (13).csv,from NOAA state CSV
+Idaho,1999,199905,June-May,43.6,data (13).csv,from NOAA state CSV
+Idaho,2000,200005,June-May,44.8,data (13).csv,from NOAA state CSV
+Idaho,2001,200105,June-May,43.1,data (13).csv,from NOAA state CSV
+Idaho,2002,200205,June-May,43.4,data (13).csv,from NOAA state CSV
+Idaho,2003,200305,June-May,44.5,data (13).csv,from NOAA state CSV
+Idaho,2004,200405,June-May,45.1,data (13).csv,from NOAA state CSV
+Idaho,2005,200505,June-May,44.2,data (13).csv,from NOAA state CSV
+Idaho,2006,200605,June-May,43.3,data (13).csv,from NOAA state CSV
+Idaho,2007,200705,June-May,44.7,data (13).csv,from NOAA state CSV
+Idaho,2008,200805,June-May,42.9,data (13).csv,from NOAA state CSV
+Idaho,2009,200905,June-May,43.6,data (13).csv,from NOAA state CSV
+Idaho,2010,201005,June-May,42.9,data (13).csv,from NOAA state CSV
+Idaho,2011,201105,June-May,42.3,data (13).csv,from NOAA state CSV
+Idaho,2012,201205,June-May,44.1,data (13).csv,from NOAA state CSV
+Idaho,2013,201305,June-May,44.2,data (13).csv,from NOAA state CSV
+Idaho,2014,201405,June-May,44.6,data (13).csv,from NOAA state CSV
+Idaho,2015,201505,June-May,46.2,data (13).csv,from NOAA state CSV
+Idaho,2016,201605,June-May,45.8,data (13).csv,from NOAA state CSV
+Idaho,2017,201705,June-May,43.9,data (13).csv,from NOAA state CSV
+Idaho,2018,201805,June-May,45,data (13).csv,from NOAA state CSV
+Idaho,2019,201905,June-May,43.5,data (13).csv,from NOAA state CSV
+Idaho,2020,202005,June-May,43.5,data (13).csv,from NOAA state CSV
+Idaho,2021,202105,June-May,44.2,data (13).csv,from NOAA state CSV
+Idaho,2022,202205,June-May,44.6,data (13).csv,from NOAA state CSV
+Idaho,2023,202305,June-May,43.4,data (13).csv,from NOAA state CSV
+Illinois,1992,199205,June-May,53.5,data (14).csv,from NOAA state CSV
+Illinois,1993,199305,June-May,50.3,data (14).csv,from NOAA state CSV
+Illinois,1994,199405,June-May,50.7,data (14).csv,from NOAA state CSV
+Illinois,1995,199505,June-May,52.6,data (14).csv,from NOAA state CSV
+Illinois,1996,199605,June-May,50.8,data (14).csv,from NOAA state CSV
+Illinois,1997,199705,June-May,50.4,data (14).csv,from NOAA state CSV
+Illinois,1998,199805,June-May,53.4,data (14).csv,from NOAA state CSV
+Illinois,1999,199905,June-May,54.1,data (14).csv,from NOAA state CSV
+Illinois,2000,200005,June-May,54.2,data (14).csv,from NOAA state CSV
+Illinois,2001,200105,June-May,51.3,data (14).csv,from NOAA state CSV
+Illinois,2002,200205,June-May,53.6,data (14).csv,from NOAA state CSV
+Illinois,2003,200305,June-May,52.1,data (14).csv,from NOAA state CSV
+Illinois,2004,200405,June-May,52.9,data (14).csv,from NOAA state CSV
+Illinois,2005,200505,June-May,52.6,data (14).csv,from NOAA state CSV
+Illinois,2006,200605,June-May,54.5,data (14).csv,from NOAA state CSV
+Illinois,2007,200705,June-May,53,data (14).csv,from NOAA state CSV
+Illinois,2008,200805,June-May,52.4,data (14).csv,from NOAA state CSV
+Illinois,2009,200905,June-May,51.6,data (14).csv,from NOAA state CSV
+Illinois,2010,201005,June-May,51.7,data (14).csv,from NOAA state CSV
+Illinois,2011,201105,June-May,52.5,data (14).csv,from NOAA state CSV
+Illinois,2012,201205,June-May,56.2,data (14).csv,from NOAA state CSV
+Illinois,2013,201305,June-May,52.6,data (14).csv,from NOAA state CSV
+Illinois,2014,201405,June-May,49.6,data (14).csv,from NOAA state CSV
+Illinois,2015,201505,June-May,50.6,data (14).csv,from NOAA state CSV
+Illinois,2016,201605,June-May,54.6,data (14).csv,from NOAA state CSV
+Illinois,2017,201705,June-May,55.7,data (14).csv,from NOAA state CSV
+Illinois,2018,201805,June-May,52.4,data (14).csv,from NOAA state CSV
+Illinois,2019,201905,June-May,52.2,data (14).csv,from NOAA state CSV
+Illinois,2020,202005,June-May,53,data (14).csv,from NOAA state CSV
+Illinois,2021,202105,June-May,52.6,data (14).csv,from NOAA state CSV
+Illinois,2022,202205,June-May,53.6,data (14).csv,from NOAA state CSV
+Illinois,2023,202305,June-May,53.8,data (14).csv,from NOAA state CSV
+Indiana,1992,199205,June-May,53,data (15).csv,from NOAA state CSV
+Indiana,1993,199305,June-May,50.2,data (15).csv,from NOAA state CSV
+Indiana,1994,199405,June-May,50.3,data (15).csv,from NOAA state CSV
+Indiana,1995,199505,June-May,52.5,data (15).csv,from NOAA state CSV
+Indiana,1996,199605,June-May,50.4,data (15).csv,from NOAA state CSV
+Indiana,1997,199705,June-May,50.4,data (15).csv,from NOAA state CSV
+Indiana,1998,199805,June-May,53.1,data (15).csv,from NOAA state CSV
+Indiana,1999,199905,June-May,53.5,data (15).csv,from NOAA state CSV
+Indiana,2000,200005,June-May,53.7,data (15).csv,from NOAA state CSV
+Indiana,2001,200105,June-May,51.1,data (15).csv,from NOAA state CSV
+Indiana,2002,200205,June-May,53.3,data (15).csv,from NOAA state CSV
+Indiana,2003,200305,June-May,51.8,data (15).csv,from NOAA state CSV
+Indiana,2004,200405,June-May,52.3,data (15).csv,from NOAA state CSV
+Indiana,2005,200505,June-May,52,data (15).csv,from NOAA state CSV
+Indiana,2006,200605,June-May,53.9,data (15).csv,from NOAA state CSV
+Indiana,2007,200705,June-May,52.4,data (15).csv,from NOAA state CSV
+Indiana,2008,200805,June-May,52.4,data (15).csv,from NOAA state CSV
+Indiana,2009,200905,June-May,51.6,data (15).csv,from NOAA state CSV
+Indiana,2010,201005,June-May,51.6,data (15).csv,from NOAA state CSV
+Indiana,2011,201105,June-May,52.3,data (15).csv,from NOAA state CSV
+Indiana,2012,201205,June-May,55.7,data (15).csv,from NOAA state CSV
+Indiana,2013,201305,June-May,52.4,data (15).csv,from NOAA state CSV
+Indiana,2014,201405,June-May,49.6,data (15).csv,from NOAA state CSV
+Indiana,2015,201505,June-May,50.2,data (15).csv,from NOAA state CSV
+Indiana,2016,201605,June-May,54.1,data (15).csv,from NOAA state CSV
+Indiana,2017,201705,June-May,55.4,data (15).csv,from NOAA state CSV
+Indiana,2018,201805,June-May,52.1,data (15).csv,from NOAA state CSV
+Indiana,2019,201905,June-May,52.5,data (15).csv,from NOAA state CSV
+Indiana,2020,202005,June-May,53.2,data (15).csv,from NOAA state CSV
+Indiana,2021,202105,June-May,52.6,data (15).csv,from NOAA state CSV
+Indiana,2022,202205,June-May,53.5,data (15).csv,from NOAA state CSV
+Indiana,2023,202305,June-May,53.7,data (15).csv,from NOAA state CSV
+Iowa,1992,199205,June-May,49.2,data (16).csv,from NOAA state CSV
+Iowa,1993,199305,June-May,45.1,data (16).csv,from NOAA state CSV
+Iowa,1994,199405,June-May,46,data (16).csv,from NOAA state CSV
+Iowa,1995,199505,June-May,48,data (16).csv,from NOAA state CSV
+Iowa,1996,199605,June-May,46.3,data (16).csv,from NOAA state CSV
+Iowa,1997,199705,June-May,45.5,data (16).csv,from NOAA state CSV
+Iowa,1998,199805,June-May,49.6,data (16).csv,from NOAA state CSV
+Iowa,1999,199905,June-May,50.2,data (16).csv,from NOAA state CSV
+Iowa,2000,200005,June-May,50.7,data (16).csv,from NOAA state CSV
+Iowa,2001,200105,June-May,46.4,data (16).csv,from NOAA state CSV
+Iowa,2002,200205,June-May,50.1,data (16).csv,from NOAA state CSV
+Iowa,2003,200305,June-May,48.2,data (16).csv,from NOAA state CSV
+Iowa,2004,200405,June-May,48.8,data (16).csv,from NOAA state CSV
+Iowa,2005,200505,June-May,48.9,data (16).csv,from NOAA state CSV
+Iowa,2006,200605,June-May,50.5,data (16).csv,from NOAA state CSV
+Iowa,2007,200705,June-May,48.9,data (16).csv,from NOAA state CSV
+Iowa,2008,200805,June-May,47.2,data (16).csv,from NOAA state CSV
+Iowa,2009,200905,June-May,47.1,data (16).csv,from NOAA state CSV
+Iowa,2010,201005,June-May,46.8,data (16).csv,from NOAA state CSV
+Iowa,2011,201105,June-May,47.8,data (16).csv,from NOAA state CSV
+Iowa,2012,201205,June-May,52.2,data (16).csv,from NOAA state CSV
+Iowa,2013,201305,June-May,48.1,data (16).csv,from NOAA state CSV
+Iowa,2014,201405,June-May,45.5,data (16).csv,from NOAA state CSV
+Iowa,2015,201505,June-May,47.1,data (16).csv,from NOAA state CSV
+Iowa,2016,201605,June-May,50.6,data (16).csv,from NOAA state CSV
+Iowa,2017,201705,June-May,51.2,data (16).csv,from NOAA state CSV
+Iowa,2018,201805,June-May,47.8,data (16).csv,from NOAA state CSV
+Iowa,2019,201905,June-May,46.8,data (16).csv,from NOAA state CSV
+Iowa,2020,202005,June-May,48.6,data (16).csv,from NOAA state CSV
+Iowa,2021,202105,June-May,48.7,data (16).csv,from NOAA state CSV
+Iowa,2022,202205,June-May,49.3,data (16).csv,from NOAA state CSV
+Iowa,2023,202305,June-May,49,data (16).csv,from NOAA state CSV
+Kansas,1992,199205,June-May,56.2,data (17).csv,from NOAA state CSV
+Kansas,1993,199305,June-May,51.1,data (17).csv,from NOAA state CSV
+Kansas,1994,199405,June-May,53.4,data (17).csv,from NOAA state CSV
+Kansas,1995,199505,June-May,54.7,data (17).csv,from NOAA state CSV
+Kansas,1996,199605,June-May,53.8,data (17).csv,from NOAA state CSV
+Kansas,1997,199705,June-May,53.1,data (17).csv,from NOAA state CSV
+Kansas,1998,199805,June-May,54.6,data (17).csv,from NOAA state CSV
+Kansas,1999,199905,June-May,56.6,data (17).csv,from NOAA state CSV
+Kansas,2000,200005,June-May,56.6,data (17).csv,from NOAA state CSV
+Kansas,2001,200105,June-May,54.3,data (17).csv,from NOAA state CSV
+Kansas,2002,200205,June-May,56,data (17).csv,from NOAA state CSV
+Kansas,2003,200305,June-May,55.1,data (17).csv,from NOAA state CSV
+Kansas,2004,200405,June-May,55.5,data (17).csv,from NOAA state CSV
+Kansas,2005,200505,June-May,55,data (17).csv,from NOAA state CSV
+Kansas,2006,200605,June-May,57.1,data (17).csv,from NOAA state CSV
+Kansas,2007,200705,June-May,55.2,data (17).csv,from NOAA state CSV
+Kansas,2008,200805,June-May,54.5,data (17).csv,from NOAA state CSV
+Kansas,2009,200905,June-May,54.5,data (17).csv,from NOAA state CSV
+Kansas,2010,201005,June-May,52.8,data (17).csv,from NOAA state CSV
+Kansas,2011,201105,June-May,55.1,data (17).csv,from NOAA state CSV
+Kansas,2012,201205,June-May,58.3,data (17).csv,from NOAA state CSV
+Kansas,2013,201305,June-May,55,data (17).csv,from NOAA state CSV
+Kansas,2014,201405,June-May,53.6,data (17).csv,from NOAA state CSV
+Kansas,2015,201505,June-May,54.6,data (17).csv,from NOAA state CSV
+Kansas,2016,201605,June-May,57.3,data (17).csv,from NOAA state CSV
+Kansas,2017,201705,June-May,57.4,data (17).csv,from NOAA state CSV
+Kansas,2018,201805,June-May,55.1,data (17).csv,from NOAA state CSV
+Kansas,2019,201905,June-May,53.6,data (17).csv,from NOAA state CSV
+Kansas,2020,202005,June-May,55.2,data (17).csv,from NOAA state CSV
+Kansas,2021,202105,June-May,54.7,data (17).csv,from NOAA state CSV
+Kansas,2022,202205,June-May,56.4,data (17).csv,from NOAA state CSV
+Kansas,2023,202305,June-May,55.7,data (17).csv,from NOAA state CSV
+Kentucky,1992,199205,June-May,56.6,data (18).csv,from NOAA state CSV
+Kentucky,1993,199305,June-May,54.3,data (18).csv,from NOAA state CSV
+Kentucky,1994,199405,June-May,54.7,data (18).csv,from NOAA state CSV
+Kentucky,1995,199505,June-May,56.3,data (18).csv,from NOAA state CSV
+Kentucky,1996,199605,June-May,54.5,data (18).csv,from NOAA state CSV
+Kentucky,1997,199705,June-May,54.8,data (18).csv,from NOAA state CSV
+Kentucky,1998,199805,June-May,56.1,data (18).csv,from NOAA state CSV
+Kentucky,1999,199905,June-May,57.5,data (18).csv,from NOAA state CSV
+Kentucky,2000,200005,June-May,57.6,data (18).csv,from NOAA state CSV
+Kentucky,2001,200105,June-May,55.1,data (18).csv,from NOAA state CSV
+Kentucky,2002,200205,June-May,56.8,data (18).csv,from NOAA state CSV
+Kentucky,2003,200305,June-May,56,data (18).csv,from NOAA state CSV
+Kentucky,2004,200405,June-May,56.2,data (18).csv,from NOAA state CSV
+Kentucky,2005,200505,June-May,56.2,data (18).csv,from NOAA state CSV
+Kentucky,2006,200605,June-May,57.4,data (18).csv,from NOAA state CSV
+Kentucky,2007,200705,June-May,56.3,data (18).csv,from NOAA state CSV
+Kentucky,2008,200805,June-May,57,data (18).csv,from NOAA state CSV
+Kentucky,2009,200905,June-May,55.7,data (18).csv,from NOAA state CSV
+Kentucky,2010,201005,June-May,55.1,data (18).csv,from NOAA state CSV
+Kentucky,2011,201105,June-May,56.5,data (18).csv,from NOAA state CSV
+Kentucky,2012,201205,June-May,59,data (18).csv,from NOAA state CSV
+Kentucky,2013,201305,June-May,55.8,data (18).csv,from NOAA state CSV
+Kentucky,2014,201405,June-May,54.4,data (18).csv,from NOAA state CSV
+Kentucky,2015,201505,June-May,54.6,data (18).csv,from NOAA state CSV
+Kentucky,2016,201605,June-May,57.8,data (18).csv,from NOAA state CSV
+Kentucky,2017,201705,June-May,59.5,data (18).csv,from NOAA state CSV
+Kentucky,2018,201805,June-May,56.1,data (18).csv,from NOAA state CSV
+Kentucky,2019,201905,June-May,57.4,data (18).csv,from NOAA state CSV
+Kentucky,2020,202005,June-May,57.4,data (18).csv,from NOAA state CSV
+Kentucky,2021,202105,June-May,56.2,data (18).csv,from NOAA state CSV
+Kentucky,2022,202205,June-May,57.4,data (18).csv,from NOAA state CSV
+Kentucky,2023,202305,June-May,57.6,data (18).csv,from NOAA state CSV
+Louisiana,1992,199205,June-May,66.4,data (19).csv,from NOAA state CSV
+Louisiana,1993,199305,June-May,65.1,data (19).csv,from NOAA state CSV
+Louisiana,1994,199405,June-May,66.2,data (19).csv,from NOAA state CSV
+Louisiana,1995,199505,June-May,67.1,data (19).csv,from NOAA state CSV
+Louisiana,1996,199605,June-May,66.1,data (19).csv,from NOAA state CSV
+Louisiana,1997,199705,June-May,66.5,data (19).csv,from NOAA state CSV
+Louisiana,1998,199805,June-May,66.4,data (19).csv,from NOAA state CSV
+Louisiana,1999,199905,June-May,69.4,data (19).csv,from NOAA state CSV
+Louisiana,2000,200005,June-May,67.9,data (19).csv,from NOAA state CSV
+Louisiana,2001,200105,June-May,66.1,data (19).csv,from NOAA state CSV
+Louisiana,2002,200205,June-May,66.7,data (19).csv,from NOAA state CSV
+Louisiana,2003,200305,June-May,66.3,data (19).csv,from NOAA state CSV
+Louisiana,2004,200405,June-May,66.7,data (19).csv,from NOAA state CSV
+Louisiana,2005,200505,June-May,67.4,data (19).csv,from NOAA state CSV
+Louisiana,2006,200605,June-May,68.2,data (19).csv,from NOAA state CSV
+Louisiana,2007,200705,June-May,66.8,data (19).csv,from NOAA state CSV
+Louisiana,2008,200805,June-May,67.6,data (19).csv,from NOAA state CSV
+Louisiana,2009,200905,June-May,66.8,data (19).csv,from NOAA state CSV
+Louisiana,2010,201005,June-May,65.5,data (19).csv,from NOAA state CSV
+Louisiana,2011,201105,June-May,67.7,data (19).csv,from NOAA state CSV
+Louisiana,2012,201205,June-May,69.3,data (19).csv,from NOAA state CSV
+Louisiana,2013,201305,June-May,66.5,data (19).csv,from NOAA state CSV
+Louisiana,2014,201405,June-May,65.2,data (19).csv,from NOAA state CSV
+Louisiana,2015,201505,June-May,66.2,data (19).csv,from NOAA state CSV
+Louisiana,2016,201605,June-May,68.9,data (19).csv,from NOAA state CSV
+Louisiana,2017,201705,June-May,70,data (19).csv,from NOAA state CSV
+Louisiana,2018,201805,June-May,67.3,data (19).csv,from NOAA state CSV
+Louisiana,2019,201905,June-May,67.7,data (19).csv,from NOAA state CSV
+Louisiana,2020,202005,June-May,68.4,data (19).csv,from NOAA state CSV
+Louisiana,2021,202105,June-May,66.7,data (19).csv,from NOAA state CSV
+Louisiana,2022,202205,June-May,67.9,data (19).csv,from NOAA state CSV
+Louisiana,2023,202305,June-May,68.6,data (19).csv,from NOAA state CSV
+Maine,1992,199205,June-May,40.5,data (51).csv,from NOAA state CSV
+Maine,1993,199305,June-May,39.5,data (51).csv,from NOAA state CSV
+Maine,1994,199405,June-May,39.3,data (51).csv,from NOAA state CSV
+Maine,1995,199505,June-May,41.9,data (51).csv,from NOAA state CSV
+Maine,1996,199605,June-May,40.7,data (51).csv,from NOAA state CSV
+Maine,1997,199705,June-May,40.5,data (51).csv,from NOAA state CSV
+Maine,1998,199805,June-May,42.4,data (51).csv,from NOAA state CSV
+Maine,1999,199905,June-May,42.9,data (51).csv,from NOAA state CSV
+Maine,2000,200005,June-May,43.1,data (51).csv,from NOAA state CSV
+Maine,2001,200105,June-May,40.4,data (51).csv,from NOAA state CSV
+Maine,2002,200205,June-May,43.5,data (51).csv,from NOAA state CSV
+Maine,2003,200305,June-May,39.5,data (51).csv,from NOAA state CSV
+Maine,2004,200405,June-May,41.6,data (51).csv,from NOAA state CSV
+Maine,2005,200505,June-May,40.4,data (51).csv,from NOAA state CSV
+Maine,2006,200605,June-May,43.6,data (51).csv,from NOAA state CSV
+Maine,2007,200705,June-May,42,data (51).csv,from NOAA state CSV
+Maine,2008,200805,June-May,41.5,data (51).csv,from NOAA state CSV
+Maine,2009,200905,June-May,41.1,data (51).csv,from NOAA state CSV
+Maine,2010,201005,June-May,43.6,data (51).csv,from NOAA state CSV
+Maine,2011,201105,June-May,42.2,data (51).csv,from NOAA state CSV
+Maine,2012,201205,June-May,44.5,data (51).csv,from NOAA state CSV
+Maine,2013,201305,June-May,42.8,data (51).csv,from NOAA state CSV
+Maine,2014,201405,June-May,40.4,data (51).csv,from NOAA state CSV
+Maine,2015,201505,June-May,40.7,data (51).csv,from NOAA state CSV
+Maine,2016,201605,June-May,43.7,data (51).csv,from NOAA state CSV
+Maine,2017,201705,June-May,42.9,data (51).csv,from NOAA state CSV
+Maine,2018,201805,June-May,42.3,data (51).csv,from NOAA state CSV
+Maine,2019,201905,June-May,40.6,data (51).csv,from NOAA state CSV
+Maine,2020,202005,June-May,42.1,data (51).csv,from NOAA state CSV
+Maine,2021,202105,June-May,44,data (51).csv,from NOAA state CSV
+Maine,2022,202205,June-May,43.3,data (51).csv,from NOAA state CSV
+Maine,2023,202305,June-May,44.3,data (51).csv,from NOAA state CSV
+Maryland,1992,199205,June-May,55,data (50).csv,from NOAA state CSV
+Maryland,1993,199305,June-May,53.3,data (50).csv,from NOAA state CSV
+Maryland,1994,199405,June-May,53.7,data (50).csv,from NOAA state CSV
+Maryland,1995,199505,June-May,55.3,data (50).csv,from NOAA state CSV
+Maryland,1996,199605,June-May,53.4,data (50).csv,from NOAA state CSV
+Maryland,1997,199705,June-May,54.1,data (50).csv,from NOAA state CSV
+Maryland,1998,199805,June-May,55.6,data (50).csv,from NOAA state CSV
+Maryland,1999,199905,June-May,55.8,data (50).csv,from NOAA state CSV
+Maryland,2000,200005,June-May,56.2,data (50).csv,from NOAA state CSV
+Maryland,2001,200105,June-May,53.3,data (50).csv,from NOAA state CSV
+Maryland,2002,200205,June-May,56.6,data (50).csv,from NOAA state CSV
+Maryland,2003,200305,June-May,54.1,data (50).csv,from NOAA state CSV
+Maryland,2004,200405,June-May,55.2,data (50).csv,from NOAA state CSV
+Maryland,2005,200505,June-May,54.5,data (50).csv,from NOAA state CSV
+Maryland,2006,200605,June-May,56.5,data (50).csv,from NOAA state CSV
+Maryland,2007,200705,June-May,55.5,data (50).csv,from NOAA state CSV
+Maryland,2008,200805,June-May,56.2,data (50).csv,from NOAA state CSV
+Maryland,2009,200905,June-May,54.8,data (50).csv,from NOAA state CSV
+Maryland,2010,201005,June-May,55.1,data (50).csv,from NOAA state CSV
+Maryland,2011,201105,June-May,55.8,data (50).csv,from NOAA state CSV
+Maryland,2012,201205,June-May,58.1,data (50).csv,from NOAA state CSV
+Maryland,2013,201305,June-May,55.4,data (50).csv,from NOAA state CSV
+Maryland,2014,201405,June-May,53.7,data (50).csv,from NOAA state CSV
+Maryland,2015,201505,June-May,53.7,data (50).csv,from NOAA state CSV
+Maryland,2016,201605,June-May,56.7,data (50).csv,from NOAA state CSV
+Maryland,2017,201705,June-May,57.7,data (50).csv,from NOAA state CSV
+Maryland,2018,201805,June-May,55.4,data (50).csv,from NOAA state CSV
+Maryland,2019,201905,June-May,56.5,data (50).csv,from NOAA state CSV
+Maryland,2020,202005,June-May,56.8,data (50).csv,from NOAA state CSV
+Maryland,2021,202105,June-May,56.6,data (50).csv,from NOAA state CSV
+Maryland,2022,202205,June-May,56.8,data (50).csv,from NOAA state CSV
+Maryland,2023,202305,June-May,57,data (50).csv,from NOAA state CSV
+Massachusetts,1992,199205,June-May,47.9,data (49).csv,from NOAA state CSV
+Massachusetts,1993,199305,June-May,46.3,data (49).csv,from NOAA state CSV
+Massachusetts,1994,199405,June-May,46.6,data (49).csv,from NOAA state CSV
+Massachusetts,1995,199505,June-May,49,data (49).csv,from NOAA state CSV
+Massachusetts,1996,199605,June-May,47,data (49).csv,from NOAA state CSV
+Massachusetts,1997,199705,June-May,47.8,data (49).csv,from NOAA state CSV
+Massachusetts,1998,199805,June-May,49.2,data (49).csv,from NOAA state CSV
+Massachusetts,1999,199905,June-May,49.3,data (49).csv,from NOAA state CSV
+Massachusetts,2000,200005,June-May,49.7,data (49).csv,from NOAA state CSV
+Massachusetts,2001,200105,June-May,46.9,data (49).csv,from NOAA state CSV
+Massachusetts,2002,200205,June-May,50.5,data (49).csv,from NOAA state CSV
+Massachusetts,2003,200305,June-May,46.7,data (49).csv,from NOAA state CSV
+Massachusetts,2004,200405,June-May,48.2,data (49).csv,from NOAA state CSV
+Massachusetts,2005,200505,June-May,47.2,data (49).csv,from NOAA state CSV
+Massachusetts,2006,200605,June-May,49.9,data (49).csv,from NOAA state CSV
+Massachusetts,2007,200705,June-May,49.1,data (49).csv,from NOAA state CSV
+Massachusetts,2008,200805,June-May,48.8,data (49).csv,from NOAA state CSV
+Massachusetts,2009,200905,June-May,48.2,data (49).csv,from NOAA state CSV
+Massachusetts,2010,201005,June-May,49.3,data (49).csv,from NOAA state CSV
+Massachusetts,2011,201105,June-May,48.9,data (49).csv,from NOAA state CSV
+Massachusetts,2012,201205,June-May,52,data (49).csv,from NOAA state CSV
+Massachusetts,2013,201305,June-May,49.5,data (49).csv,from NOAA state CSV
+Massachusetts,2014,201405,June-May,47.5,data (49).csv,from NOAA state CSV
+Massachusetts,2015,201505,June-May,47.2,data (49).csv,from NOAA state CSV
+Massachusetts,2016,201605,June-May,50.9,data (49).csv,from NOAA state CSV
+Massachusetts,2017,201705,June-May,50.2,data (49).csv,from NOAA state CSV
+Massachusetts,2018,201805,June-May,49.2,data (49).csv,from NOAA state CSV
+Massachusetts,2019,201905,June-May,49,data (49).csv,from NOAA state CSV
+Massachusetts,2020,202005,June-May,49.6,data (49).csv,from NOAA state CSV
+Massachusetts,2021,202105,June-May,50.6,data (49).csv,from NOAA state CSV
+Massachusetts,2022,202205,June-May,50.7,data (49).csv,from NOAA state CSV
+Massachusetts,2023,202305,June-May,51.4,data (49).csv,from NOAA state CSV
+Michigan,1992,199205,June-May,44.9,data (48).csv,from NOAA state CSV
+Michigan,1993,199305,June-May,42.6,data (48).csv,from NOAA state CSV
+Michigan,1994,199405,June-May,42.2,data (48).csv,from NOAA state CSV
+Michigan,1995,199505,June-May,45.3,data (48).csv,from NOAA state CSV
+Michigan,1996,199605,June-May,42.8,data (48).csv,from NOAA state CSV
+Michigan,1997,199705,June-May,43.2,data (48).csv,from NOAA state CSV
+Michigan,1998,199805,June-May,46.6,data (48).csv,from NOAA state CSV
+Michigan,1999,199905,June-May,46.9,data (48).csv,from NOAA state CSV
+Michigan,2000,200005,June-May,46.8,data (48).csv,from NOAA state CSV
+Michigan,2001,200105,June-May,44.6,data (48).csv,from NOAA state CSV
+Michigan,2002,200205,June-May,46.6,data (48).csv,from NOAA state CSV
+Michigan,2003,200305,June-May,44.2,data (48).csv,from NOAA state CSV
+Michigan,2004,200405,June-May,45,data (48).csv,from NOAA state CSV
+Michigan,2005,200505,June-May,44.5,data (48).csv,from NOAA state CSV
+Michigan,2006,200605,June-May,47.7,data (48).csv,from NOAA state CSV
+Michigan,2007,200705,June-May,45.8,data (48).csv,from NOAA state CSV
+Michigan,2008,200805,June-May,45.4,data (48).csv,from NOAA state CSV
+Michigan,2009,200905,June-May,44,data (48).csv,from NOAA state CSV
+Michigan,2010,201005,June-May,45.9,data (48).csv,from NOAA state CSV
+Michigan,2011,201105,June-May,45,data (48).csv,from NOAA state CSV
+Michigan,2012,201205,June-May,48.7,data (48).csv,from NOAA state CSV
+Michigan,2013,201305,June-May,45.6,data (48).csv,from NOAA state CSV
+Michigan,2014,201405,June-May,41.9,data (48).csv,from NOAA state CSV
+Michigan,2015,201505,June-May,42.9,data (48).csv,from NOAA state CSV
+Michigan,2016,201605,June-May,47.3,data (48).csv,from NOAA state CSV
+Michigan,2017,201705,June-May,47.9,data (48).csv,from NOAA state CSV
+Michigan,2018,201805,June-May,44.8,data (48).csv,from NOAA state CSV
+Michigan,2019,201905,June-May,44.3,data (48).csv,from NOAA state CSV
+Michigan,2020,202005,June-May,45.7,data (48).csv,from NOAA state CSV
+Michigan,2021,202105,June-May,46.5,data (48).csv,from NOAA state CSV
+Michigan,2022,202205,June-May,46.2,data (48).csv,from NOAA state CSV
+Michigan,2023,202305,June-May,46.9,data (48).csv,from NOAA state CSV
+Minnesota,1992,199205,June-May,42.2,data (47).csv,from NOAA state CSV
+Minnesota,1993,199305,June-May,38.7,data (47).csv,from NOAA state CSV
+Minnesota,1994,199405,June-May,38.4,data (47).csv,from NOAA state CSV
+Minnesota,1995,199505,June-May,41.8,data (47).csv,from NOAA state CSV
+Minnesota,1996,199605,June-May,38.4,data (47).csv,from NOAA state CSV
+Minnesota,1997,199705,June-May,38.6,data (47).csv,from NOAA state CSV
+Minnesota,1998,199805,June-May,44.4,data (47).csv,from NOAA state CSV
+Minnesota,1999,199905,June-May,43.7,data (47).csv,from NOAA state CSV
+Minnesota,2000,200005,June-May,44.2,data (47).csv,from NOAA state CSV
+Minnesota,2001,200105,June-May,40,data (47).csv,from NOAA state CSV
+Minnesota,2002,200205,June-May,43.4,data (47).csv,from NOAA state CSV
+Minnesota,2003,200305,June-May,41.4,data (47).csv,from NOAA state CSV
+Minnesota,2004,200405,June-May,41.9,data (47).csv,from NOAA state CSV
+Minnesota,2005,200505,June-May,41.9,data (47).csv,from NOAA state CSV
+Minnesota,2006,200605,June-May,44.5,data (47).csv,from NOAA state CSV
+Minnesota,2007,200705,June-May,42.9,data (47).csv,from NOAA state CSV
+Minnesota,2008,200805,June-May,40.6,data (47).csv,from NOAA state CSV
+Minnesota,2009,200905,June-May,39.9,data (47).csv,from NOAA state CSV
+Minnesota,2010,201005,June-May,42.2,data (47).csv,from NOAA state CSV
+Minnesota,2011,201105,June-May,40.6,data (47).csv,from NOAA state CSV
+Minnesota,2012,201205,June-May,46.1,data (47).csv,from NOAA state CSV
+Minnesota,2013,201305,June-May,40.7,data (47).csv,from NOAA state CSV
+Minnesota,2014,201405,June-May,38.2,data (47).csv,from NOAA state CSV
+Minnesota,2015,201505,June-May,41.2,data (47).csv,from NOAA state CSV
+Minnesota,2016,201605,June-May,45,data (47).csv,from NOAA state CSV
+Minnesota,2017,201705,June-May,44.3,data (47).csv,from NOAA state CSV
+Minnesota,2018,201805,June-May,40.6,data (47).csv,from NOAA state CSV
+Minnesota,2019,201905,June-May,39.4,data (47).csv,from NOAA state CSV
+Minnesota,2020,202005,June-May,41.4,data (47).csv,from NOAA state CSV
+Minnesota,2021,202105,June-May,42.9,data (47).csv,from NOAA state CSV
+Minnesota,2022,202205,June-May,41.8,data (47).csv,from NOAA state CSV
+Minnesota,2023,202305,June-May,41.7,data (47).csv,from NOAA state CSV
+Mississippi,1992,199205,June-May,63.7,data (46).csv,from NOAA state CSV
+Mississippi,1993,199305,June-May,62.1,data (46).csv,from NOAA state CSV
+Mississippi,1994,199405,June-May,63.2,data (46).csv,from NOAA state CSV
+Mississippi,1995,199505,June-May,64.2,data (46).csv,from NOAA state CSV
+Mississippi,1996,199605,June-May,62.7,data (46).csv,from NOAA state CSV
+Mississippi,1997,199705,June-May,63.5,data (46).csv,from NOAA state CSV
+Mississippi,1998,199805,June-May,63.4,data (46).csv,from NOAA state CSV
+Mississippi,1999,199905,June-May,66.4,data (46).csv,from NOAA state CSV
+Mississippi,2000,200005,June-May,65,data (46).csv,from NOAA state CSV
+Mississippi,2001,200105,June-May,63.2,data (46).csv,from NOAA state CSV
+Mississippi,2002,200205,June-May,63.9,data (46).csv,from NOAA state CSV
+Mississippi,2003,200305,June-May,63.6,data (46).csv,from NOAA state CSV
+Mississippi,2004,200405,June-May,63.6,data (46).csv,from NOAA state CSV
+Mississippi,2005,200505,June-May,64.2,data (46).csv,from NOAA state CSV
+Mississippi,2006,200605,June-May,64.9,data (46).csv,from NOAA state CSV
+Mississippi,2007,200705,June-May,64.1,data (46).csv,from NOAA state CSV
+Mississippi,2008,200805,June-May,64.7,data (46).csv,from NOAA state CSV
+Mississippi,2009,200905,June-May,63.7,data (46).csv,from NOAA state CSV
+Mississippi,2010,201005,June-May,62.4,data (46).csv,from NOAA state CSV
+Mississippi,2011,201105,June-May,64.7,data (46).csv,from NOAA state CSV
+Mississippi,2012,201205,June-May,66.2,data (46).csv,from NOAA state CSV
+Mississippi,2013,201305,June-May,63.3,data (46).csv,from NOAA state CSV
+Mississippi,2014,201405,June-May,62.3,data (46).csv,from NOAA state CSV
+Mississippi,2015,201505,June-May,63.4,data (46).csv,from NOAA state CSV
+Mississippi,2016,201605,June-May,65.9,data (46).csv,from NOAA state CSV
+Mississippi,2017,201705,June-May,67.3,data (46).csv,from NOAA state CSV
+Mississippi,2018,201805,June-May,64.2,data (46).csv,from NOAA state CSV
+Mississippi,2019,201905,June-May,65.2,data (46).csv,from NOAA state CSV
+Mississippi,2020,202005,June-May,65.7,data (46).csv,from NOAA state CSV
+Mississippi,2021,202105,June-May,64.1,data (46).csv,from NOAA state CSV
+Mississippi,2022,202205,June-May,65.2,data (46).csv,from NOAA state CSV
+Mississippi,2023,202305,June-May,65.9,data (46).csv,from NOAA state CSV
+Missouri,1992,199205,June-May,56,data (45).csv,from NOAA state CSV
+Missouri,1993,199305,June-May,52.4,data (45).csv,from NOAA state CSV
+Missouri,1994,199405,June-May,53.5,data (45).csv,from NOAA state CSV
+Missouri,1995,199505,June-May,55,data (45).csv,from NOAA state CSV
+Missouri,1996,199605,June-May,53.6,data (45).csv,from NOAA state CSV
+Missouri,1997,199705,June-May,53.1,data (45).csv,from NOAA state CSV
+Missouri,1998,199805,June-May,55.4,data (45).csv,from NOAA state CSV
+Missouri,1999,199905,June-May,56.8,data (45).csv,from NOAA state CSV
+Missouri,2000,200005,June-May,57.1,data (45).csv,from NOAA state CSV
+Missouri,2001,200105,June-May,53.9,data (45).csv,from NOAA state CSV
+Missouri,2002,200205,June-May,55.9,data (45).csv,from NOAA state CSV
+Missouri,2003,200305,June-May,54.6,data (45).csv,from NOAA state CSV
+Missouri,2004,200405,June-May,55.4,data (45).csv,from NOAA state CSV
+Missouri,2005,200505,June-May,55.2,data (45).csv,from NOAA state CSV
+Missouri,2006,200605,June-May,57.1,data (45).csv,from NOAA state CSV
+Missouri,2007,200705,June-May,55.7,data (45).csv,from NOAA state CSV
+Missouri,2008,200805,June-May,54.9,data (45).csv,from NOAA state CSV
+Missouri,2009,200905,June-May,54.3,data (45).csv,from NOAA state CSV
+Missouri,2010,201005,June-May,53.5,data (45).csv,from NOAA state CSV
+Missouri,2011,201105,June-May,55.3,data (45).csv,from NOAA state CSV
+Missouri,2012,201205,June-May,58.8,data (45).csv,from NOAA state CSV
+Missouri,2013,201305,June-May,55.2,data (45).csv,from NOAA state CSV
+Missouri,2014,201405,June-May,52.8,data (45).csv,from NOAA state CSV
+Missouri,2015,201505,June-May,53.9,data (45).csv,from NOAA state CSV
+Missouri,2016,201605,June-May,57.2,data (45).csv,from NOAA state CSV
+Missouri,2017,201705,June-May,58.4,data (45).csv,from NOAA state CSV
+Missouri,2018,201805,June-May,55.2,data (45).csv,from NOAA state CSV
+Missouri,2019,201905,June-May,55,data (45).csv,from NOAA state CSV
+Missouri,2020,202005,June-May,55.6,data (45).csv,from NOAA state CSV
+Missouri,2021,202105,June-May,55,data (45).csv,from NOAA state CSV
+Missouri,2022,202205,June-May,56.4,data (45).csv,from NOAA state CSV
+Missouri,2023,202305,June-May,56.5,data (45).csv,from NOAA state CSV
+Montana,1992,199205,June-May,45,data (44).csv,from NOAA state CSV
+Montana,1993,199305,June-May,40.2,data (44).csv,from NOAA state CSV
+Montana,1994,199405,June-May,40.6,data (44).csv,from NOAA state CSV
+Montana,1995,199505,June-May,42.6,data (44).csv,from NOAA state CSV
+Montana,1996,199605,June-May,40.1,data (44).csv,from NOAA state CSV
+Montana,1997,199705,June-May,40.3,data (44).csv,from NOAA state CSV
+Montana,1998,199805,June-May,43.5,data (44).csv,from NOAA state CSV
+Montana,1999,199905,June-May,44,data (44).csv,from NOAA state CSV
+Montana,2000,200005,June-May,44.3,data (44).csv,from NOAA state CSV
+Montana,2001,200105,June-May,41.5,data (44).csv,from NOAA state CSV
+Montana,2002,200205,June-May,42.4,data (44).csv,from NOAA state CSV
+Montana,2003,200305,June-May,42.8,data (44).csv,from NOAA state CSV
+Montana,2004,200405,June-May,43.4,data (44).csv,from NOAA state CSV
+Montana,2005,200505,June-May,43,data (44).csv,from NOAA state CSV
+Montana,2006,200605,June-May,43.9,data (44).csv,from NOAA state CSV
+Montana,2007,200705,June-May,43.8,data (44).csv,from NOAA state CSV
+Montana,2008,200805,June-May,42.8,data (44).csv,from NOAA state CSV
+Montana,2009,200905,June-May,41.7,data (44).csv,from NOAA state CSV
+Montana,2010,201005,June-May,41.2,data (44).csv,from NOAA state CSV
+Montana,2011,201105,June-May,40.2,data (44).csv,from NOAA state CSV
+Montana,2012,201205,June-May,44.5,data (44).csv,from NOAA state CSV
+Montana,2013,201305,June-May,43.3,data (44).csv,from NOAA state CSV
+Montana,2014,201405,June-May,41.7,data (44).csv,from NOAA state CSV
+Montana,2015,201505,June-May,43.8,data (44).csv,from NOAA state CSV
+Montana,2016,201605,June-May,45.4,data (44).csv,from NOAA state CSV
+Montana,2017,201705,June-May,43,data (44).csv,from NOAA state CSV
+Montana,2018,201805,June-May,41.9,data (44).csv,from NOAA state CSV
+Montana,2019,201905,June-May,40.4,data (44).csv,from NOAA state CSV
+Montana,2020,202005,June-May,42,data (44).csv,from NOAA state CSV
+Montana,2021,202105,June-May,43,data (44).csv,from NOAA state CSV
+Montana,2022,202205,June-May,43.7,data (44).csv,from NOAA state CSV
+Montana,2023,202305,June-May,42.3,data (44).csv,from NOAA state CSV
+Nebraska,1992,199205,June-May,51.1,data (43).csv,from NOAA state CSV
+Nebraska,1993,199305,June-May,45.5,data (43).csv,from NOAA state CSV
+Nebraska,1994,199405,June-May,47.4,data (43).csv,from NOAA state CSV
+Nebraska,1995,199505,June-May,49,data (43).csv,from NOAA state CSV
+Nebraska,1996,199605,June-May,47.9,data (43).csv,from NOAA state CSV
+Nebraska,1997,199705,June-May,47,data (43).csv,from NOAA state CSV
+Nebraska,1998,199805,June-May,49.8,data (43).csv,from NOAA state CSV
+Nebraska,1999,199905,June-May,51,data (43).csv,from NOAA state CSV
+Nebraska,2000,200005,June-May,51.6,data (43).csv,from NOAA state CSV
+Nebraska,2001,200105,June-May,48.3,data (43).csv,from NOAA state CSV
+Nebraska,2002,200205,June-May,50.5,data (43).csv,from NOAA state CSV
+Nebraska,2003,200305,June-May,50.1,data (43).csv,from NOAA state CSV
+Nebraska,2004,200405,June-May,50.3,data (43).csv,from NOAA state CSV
+Nebraska,2005,200505,June-May,49.8,data (43).csv,from NOAA state CSV
+Nebraska,2006,200605,June-May,51.7,data (43).csv,from NOAA state CSV
+Nebraska,2007,200705,June-May,49.6,data (43).csv,from NOAA state CSV
+Nebraska,2008,200805,June-May,48.9,data (43).csv,from NOAA state CSV
+Nebraska,2009,200905,June-May,48.9,data (43).csv,from NOAA state CSV
+Nebraska,2010,201005,June-May,47,data (43).csv,from NOAA state CSV
+Nebraska,2011,201105,June-May,48.7,data (43).csv,from NOAA state CSV
+Nebraska,2012,201205,June-May,52.2,data (43).csv,from NOAA state CSV
+Nebraska,2013,201305,June-May,49.7,data (43).csv,from NOAA state CSV
+Nebraska,2014,201405,June-May,48.3,data (43).csv,from NOAA state CSV
+Nebraska,2015,201505,June-May,49.2,data (43).csv,from NOAA state CSV
+Nebraska,2016,201605,June-May,51.6,data (43).csv,from NOAA state CSV
+Nebraska,2017,201705,June-May,51.4,data (43).csv,from NOAA state CSV
+Nebraska,2018,201805,June-May,48.9,data (43).csv,from NOAA state CSV
+Nebraska,2019,201905,June-May,47.4,data (43).csv,from NOAA state CSV
+Nebraska,2020,202005,June-May,49.4,data (43).csv,from NOAA state CSV
+Nebraska,2021,202105,June-May,49.9,data (43).csv,from NOAA state CSV
+Nebraska,2022,202205,June-May,51.3,data (43).csv,from NOAA state CSV
+Nebraska,2023,202305,June-May,49.6,data (43).csv,from NOAA state CSV
+Nevada,1992,199205,June-May,52,data (42).csv,from NOAA state CSV
+Nevada,1993,199305,June-May,49.5,data (42).csv,from NOAA state CSV
+Nevada,1994,199405,June-May,49.6,data (42).csv,from NOAA state CSV
+Nevada,1995,199505,June-May,50.4,data (42).csv,from NOAA state CSV
+Nevada,1996,199605,June-May,51.3,data (42).csv,from NOAA state CSV
+Nevada,1997,199705,June-May,51.5,data (42).csv,from NOAA state CSV
+Nevada,1998,199805,June-May,49.4,data (42).csv,from NOAA state CSV
+Nevada,1999,199905,June-May,49.6,data (42).csv,from NOAA state CSV
+Nevada,2000,200005,June-May,52,data (42).csv,from NOAA state CSV
+Nevada,2001,200105,June-May,50.5,data (42).csv,from NOAA state CSV
+Nevada,2002,200205,June-May,51.3,data (42).csv,from NOAA state CSV
+Nevada,2003,200305,June-May,51.6,data (42).csv,from NOAA state CSV
+Nevada,2004,200405,June-May,52.1,data (42).csv,from NOAA state CSV
+Nevada,2005,200505,June-May,50.4,data (42).csv,from NOAA state CSV
+Nevada,2006,200605,June-May,50.7,data (42).csv,from NOAA state CSV
+Nevada,2007,200705,June-May,51.3,data (42).csv,from NOAA state CSV
+Nevada,2008,200805,June-May,50.2,data (42).csv,from NOAA state CSV
+Nevada,2009,200905,June-May,51.6,data (42).csv,from NOAA state CSV
+Nevada,2010,201005,June-May,49.2,data (42).csv,from NOAA state CSV
+Nevada,2011,201105,June-May,50,data (42).csv,from NOAA state CSV
+Nevada,2012,201205,June-May,51.1,data (42).csv,from NOAA state CSV
+Nevada,2013,201305,June-May,51.4,data (42).csv,from NOAA state CSV
+Nevada,2014,201405,June-May,51.9,data (42).csv,from NOAA state CSV
+Nevada,2015,201505,June-May,53.5,data (42).csv,from NOAA state CSV
+Nevada,2016,201605,June-May,51.8,data (42).csv,from NOAA state CSV
+Nevada,2017,201705,June-May,51.8,data (42).csv,from NOAA state CSV
+Nevada,2018,201805,June-May,52.4,data (42).csv,from NOAA state CSV
+Nevada,2019,201905,June-May,50.9,data (42).csv,from NOAA state CSV
+Nevada,2020,202005,June-May,51,data (42).csv,from NOAA state CSV
+Nevada,2021,202105,June-May,52.1,data (42).csv,from NOAA state CSV
+Nevada,2022,202205,June-May,52.5,data (42).csv,from NOAA state CSV
+Nevada,2023,202305,June-May,50.3,data (42).csv,from NOAA state CSV
+New Hampshire,1992,199205,June-May,42.9,data (41).csv,from NOAA state CSV
+New Hampshire,1993,199305,June-May,41.7,data (41).csv,from NOAA state CSV
+New Hampshire,1994,199405,June-May,41.6,data (41).csv,from NOAA state CSV
+New Hampshire,1995,199505,June-May,44.3,data (41).csv,from NOAA state CSV
+New Hampshire,1996,199605,June-May,42.6,data (41).csv,from NOAA state CSV
+New Hampshire,1997,199705,June-May,43,data (41).csv,from NOAA state CSV
+New Hampshire,1998,199805,June-May,44.7,data (41).csv,from NOAA state CSV
+New Hampshire,1999,199905,June-May,44.9,data (41).csv,from NOAA state CSV
+New Hampshire,2000,200005,June-May,45.1,data (41).csv,from NOAA state CSV
+New Hampshire,2001,200105,June-May,42.4,data (41).csv,from NOAA state CSV
+New Hampshire,2002,200205,June-May,45.8,data (41).csv,from NOAA state CSV
+New Hampshire,2003,200305,June-May,42,data (41).csv,from NOAA state CSV
+New Hampshire,2004,200405,June-May,43.7,data (41).csv,from NOAA state CSV
+New Hampshire,2005,200505,June-May,42.7,data (41).csv,from NOAA state CSV
+New Hampshire,2006,200605,June-May,45.6,data (41).csv,from NOAA state CSV
+New Hampshire,2007,200705,June-May,44.2,data (41).csv,from NOAA state CSV
+New Hampshire,2008,200805,June-May,43.8,data (41).csv,from NOAA state CSV
+New Hampshire,2009,200905,June-May,43.4,data (41).csv,from NOAA state CSV
+New Hampshire,2010,201005,June-May,45.1,data (41).csv,from NOAA state CSV
+New Hampshire,2011,201105,June-May,44,data (41).csv,from NOAA state CSV
+New Hampshire,2012,201205,June-May,47.2,data (41).csv,from NOAA state CSV
+New Hampshire,2013,201305,June-May,45,data (41).csv,from NOAA state CSV
+New Hampshire,2014,201405,June-May,42.6,data (41).csv,from NOAA state CSV
+New Hampshire,2015,201505,June-May,42.6,data (41).csv,from NOAA state CSV
+New Hampshire,2016,201605,June-May,46.3,data (41).csv,from NOAA state CSV
+New Hampshire,2017,201705,June-May,45.5,data (41).csv,from NOAA state CSV
+New Hampshire,2018,201805,June-May,44.5,data (41).csv,from NOAA state CSV
+New Hampshire,2019,201905,June-May,43.6,data (41).csv,from NOAA state CSV
+New Hampshire,2020,202005,June-May,44.6,data (41).csv,from NOAA state CSV
+New Hampshire,2021,202105,June-May,45.7,data (41).csv,from NOAA state CSV
+New Hampshire,2022,202205,June-May,45.7,data (41).csv,from NOAA state CSV
+New Hampshire,2023,202305,June-May,46.5,data (41).csv,from NOAA state CSV
+New Jersey,1992,199205,June-May,52.8,data (40).csv,from NOAA state CSV
+New Jersey,1993,199305,June-May,51.3,data (40).csv,from NOAA state CSV
+New Jersey,1994,199405,June-May,51.4,data (40).csv,from NOAA state CSV
+New Jersey,1995,199505,June-May,53.3,data (40).csv,from NOAA state CSV
+New Jersey,1996,199605,June-May,51.6,data (40).csv,from NOAA state CSV
+New Jersey,1997,199705,June-May,52.3,data (40).csv,from NOAA state CSV
+New Jersey,1998,199805,June-May,53.9,data (40).csv,from NOAA state CSV
+New Jersey,1999,199905,June-May,53.7,data (40).csv,from NOAA state CSV
+New Jersey,2000,200005,June-May,54.3,data (40).csv,from NOAA state CSV
+New Jersey,2001,200105,June-May,51.6,data (40).csv,from NOAA state CSV
+New Jersey,2002,200205,June-May,54.9,data (40).csv,from NOAA state CSV
+New Jersey,2003,200305,June-May,51.8,data (40).csv,from NOAA state CSV
+New Jersey,2004,200405,June-May,53.3,data (40).csv,from NOAA state CSV
+New Jersey,2005,200505,June-May,52.4,data (40).csv,from NOAA state CSV
+New Jersey,2006,200605,June-May,55,data (40).csv,from NOAA state CSV
+New Jersey,2007,200705,June-May,53.9,data (40).csv,from NOAA state CSV
+New Jersey,2008,200805,June-May,54.1,data (40).csv,from NOAA state CSV
+New Jersey,2009,200905,June-May,53.2,data (40).csv,from NOAA state CSV
+New Jersey,2010,201005,June-May,53.7,data (40).csv,from NOAA state CSV
+New Jersey,2011,201105,June-May,54,data (40).csv,from NOAA state CSV
+New Jersey,2012,201205,June-May,56.7,data (40).csv,from NOAA state CSV
+New Jersey,2013,201305,June-May,53.8,data (40).csv,from NOAA state CSV
+New Jersey,2014,201405,June-May,52,data (40).csv,from NOAA state CSV
+New Jersey,2015,201505,June-May,52,data (40).csv,from NOAA state CSV
+New Jersey,2016,201605,June-May,55.7,data (40).csv,from NOAA state CSV
+New Jersey,2017,201705,June-May,55.5,data (40).csv,from NOAA state CSV
+New Jersey,2018,201805,June-May,53.7,data (40).csv,from NOAA state CSV
+New Jersey,2019,201905,June-May,54.4,data (40).csv,from NOAA state CSV
+New Jersey,2020,202005,June-May,54.9,data (40).csv,from NOAA state CSV
+New Jersey,2021,202105,June-May,54.9,data (40).csv,from NOAA state CSV
+New Jersey,2022,202205,June-May,55,data (40).csv,from NOAA state CSV
+New Jersey,2023,202305,June-May,55.6,data (40).csv,from NOAA state CSV
+New Mexico,1992,199205,June-May,52.6,data (39).csv,from NOAA state CSV
+New Mexico,1993,199305,June-May,52.8,data (39).csv,from NOAA state CSV
+New Mexico,1994,199405,June-May,53.1,data (39).csv,from NOAA state CSV
+New Mexico,1995,199505,June-May,54.6,data (39).csv,from NOAA state CSV
+New Mexico,1996,199605,June-May,55.1,data (39).csv,from NOAA state CSV
+New Mexico,1997,199705,June-May,53.4,data (39).csv,from NOAA state CSV
+New Mexico,1998,199805,June-May,52.9,data (39).csv,from NOAA state CSV
+New Mexico,1999,199905,June-May,55.1,data (39).csv,from NOAA state CSV
+New Mexico,2000,200005,June-May,55.2,data (39).csv,from NOAA state CSV
+New Mexico,2001,200105,June-May,53.8,data (39).csv,from NOAA state CSV
+New Mexico,2002,200205,June-May,54.9,data (39).csv,from NOAA state CSV
+New Mexico,2003,200305,June-May,54.7,data (39).csv,from NOAA state CSV
+New Mexico,2004,200405,June-May,55.1,data (39).csv,from NOAA state CSV
+New Mexico,2005,200505,June-May,53.6,data (39).csv,from NOAA state CSV
+New Mexico,2006,200605,June-May,55.4,data (39).csv,from NOAA state CSV
+New Mexico,2007,200705,June-May,53.4,data (39).csv,from NOAA state CSV
+New Mexico,2008,200805,June-May,54.2,data (39).csv,from NOAA state CSV
+New Mexico,2009,200905,June-May,54.8,data (39).csv,from NOAA state CSV
+New Mexico,2010,201005,June-May,52.8,data (39).csv,from NOAA state CSV
+New Mexico,2011,201105,June-May,54.9,data (39).csv,from NOAA state CSV
+New Mexico,2012,201205,June-May,55.6,data (39).csv,from NOAA state CSV
+New Mexico,2013,201305,June-May,54.7,data (39).csv,from NOAA state CSV
+New Mexico,2014,201405,June-May,54.3,data (39).csv,from NOAA state CSV
+New Mexico,2015,201505,June-May,54.7,data (39).csv,from NOAA state CSV
+New Mexico,2016,201605,June-May,55,data (39).csv,from NOAA state CSV
+New Mexico,2017,201705,June-May,56.4,data (39).csv,from NOAA state CSV
+New Mexico,2018,201805,June-May,56.3,data (39).csv,from NOAA state CSV
+New Mexico,2019,201905,June-May,54.3,data (39).csv,from NOAA state CSV
+New Mexico,2020,202005,June-May,55.4,data (39).csv,from NOAA state CSV
+New Mexico,2021,202105,June-May,55.2,data (39).csv,from NOAA state CSV
+New Mexico,2022,202205,June-May,55.6,data (39).csv,from NOAA state CSV
+New Mexico,2023,202305,June-May,54.2,data (39).csv,from NOAA state CSV
+New York,1992,199205,June-May,45.3,data (38).csv,from NOAA state CSV
+New York,1993,199305,June-May,43.5,data (38).csv,from NOAA state CSV
+New York,1994,199405,June-May,43.1,data (38).csv,from NOAA state CSV
+New York,1995,199505,June-May,46.1,data (38).csv,from NOAA state CSV
+New York,1996,199605,June-May,44.2,data (38).csv,from NOAA state CSV
+New York,1997,199705,June-May,45,data (38).csv,from NOAA state CSV
+New York,1998,199805,June-May,46.9,data (38).csv,from NOAA state CSV
+New York,1999,199905,June-May,46.7,data (38).csv,from NOAA state CSV
+New York,2000,200005,June-May,47.1,data (38).csv,from NOAA state CSV
+New York,2001,200105,June-May,44.4,data (38).csv,from NOAA state CSV
+New York,2002,200205,June-May,47.9,data (38).csv,from NOAA state CSV
+New York,2003,200305,June-May,44.4,data (38).csv,from NOAA state CSV
+New York,2004,200405,June-May,45.5,data (38).csv,from NOAA state CSV
+New York,2005,200505,June-May,44.8,data (38).csv,from NOAA state CSV
+New York,2006,200605,June-May,48,data (38).csv,from NOAA state CSV
+New York,2007,200705,June-May,46.1,data (38).csv,from NOAA state CSV
+New York,2008,200805,June-May,46.5,data (38).csv,from NOAA state CSV
+New York,2009,200905,June-May,45.4,data (38).csv,from NOAA state CSV
+New York,2010,201005,June-May,46.5,data (38).csv,from NOAA state CSV
+New York,2011,201105,June-May,45.8,data (38).csv,from NOAA state CSV
+New York,2012,201205,June-May,49.6,data (38).csv,from NOAA state CSV
+New York,2013,201305,June-May,46.8,data (38).csv,from NOAA state CSV
+New York,2014,201405,June-May,44.1,data (38).csv,from NOAA state CSV
+New York,2015,201505,June-May,44.2,data (38).csv,from NOAA state CSV
+New York,2016,201605,June-May,48.2,data (38).csv,from NOAA state CSV
+New York,2017,201705,June-May,48,data (38).csv,from NOAA state CSV
+New York,2018,201805,June-May,45.8,data (38).csv,from NOAA state CSV
+New York,2019,201905,June-May,45.8,data (38).csv,from NOAA state CSV
+New York,2020,202005,June-May,46.5,data (38).csv,from NOAA state CSV
+New York,2021,202105,June-May,47.3,data (38).csv,from NOAA state CSV
+New York,2022,202205,June-May,47.3,data (38).csv,from NOAA state CSV
+New York,2023,202305,June-May,48,data (38).csv,from NOAA state CSV
+North Carolina,1992,199205,June-May,59,data (20).csv,from NOAA state CSV
+North Carolina,1993,199305,June-May,57.9,data (20).csv,from NOAA state CSV
+North Carolina,1994,199405,June-May,58.9,data (20).csv,from NOAA state CSV
+North Carolina,1995,199505,June-May,59.3,data (20).csv,from NOAA state CSV
+North Carolina,1996,199605,June-May,57.7,data (20).csv,from NOAA state CSV
+North Carolina,1997,199705,June-May,58.4,data (20).csv,from NOAA state CSV
+North Carolina,1998,199805,June-May,58.8,data (20).csv,from NOAA state CSV
+North Carolina,1999,199905,June-May,60.5,data (20).csv,from NOAA state CSV
+North Carolina,2000,200005,June-May,59.8,data (20).csv,from NOAA state CSV
+North Carolina,2001,200105,June-May,58,data (20).csv,from NOAA state CSV
+North Carolina,2002,200205,June-May,60,data (20).csv,from NOAA state CSV
+North Carolina,2003,200305,June-May,59,data (20).csv,from NOAA state CSV
+North Carolina,2004,200405,June-May,59.2,data (20).csv,from NOAA state CSV
+North Carolina,2005,200505,June-May,58.9,data (20).csv,from NOAA state CSV
+North Carolina,2006,200605,June-May,60.2,data (20).csv,from NOAA state CSV
+North Carolina,2007,200705,June-May,59.5,data (20).csv,from NOAA state CSV
+North Carolina,2008,200805,June-May,60.5,data (20).csv,from NOAA state CSV
+North Carolina,2009,200905,June-May,59,data (20).csv,from NOAA state CSV
+North Carolina,2010,201005,June-May,58.6,data (20).csv,from NOAA state CSV
+North Carolina,2011,201105,June-May,59.7,data (20).csv,from NOAA state CSV
+North Carolina,2012,201205,June-May,61.7,data (20).csv,from NOAA state CSV
+North Carolina,2013,201305,June-May,58.8,data (20).csv,from NOAA state CSV
+North Carolina,2014,201405,June-May,58.4,data (20).csv,from NOAA state CSV
+North Carolina,2015,201505,June-May,58.5,data (20).csv,from NOAA state CSV
+North Carolina,2016,201605,June-May,61.2,data (20).csv,from NOAA state CSV
+North Carolina,2017,201705,June-May,62.1,data (20).csv,from NOAA state CSV
+North Carolina,2018,201805,June-May,59.7,data (20).csv,from NOAA state CSV
+North Carolina,2019,201905,June-May,61.3,data (20).csv,from NOAA state CSV
+North Carolina,2020,202005,June-May,61.1,data (20).csv,from NOAA state CSV
+North Carolina,2021,202105,June-May,60,data (20).csv,from NOAA state CSV
+North Carolina,2022,202205,June-May,60.7,data (20).csv,from NOAA state CSV
+North Carolina,2023,202305,June-May,60.7,data (20).csv,from NOAA state CSV
+North Dakota,1992,199205,June-May,43.3,data (21).csv,from NOAA state CSV
+North Dakota,1993,199305,June-May,38.3,data (21).csv,from NOAA state CSV
+North Dakota,1994,199405,June-May,37.6,data (21).csv,from NOAA state CSV
+North Dakota,1995,199505,June-May,40.7,data (21).csv,from NOAA state CSV
+North Dakota,1996,199605,June-May,37.9,data (21).csv,from NOAA state CSV
+North Dakota,1997,199705,June-May,37.4,data (21).csv,from NOAA state CSV
+North Dakota,1998,199805,June-May,43.6,data (21).csv,from NOAA state CSV
+North Dakota,1999,199905,June-May,42.7,data (21).csv,from NOAA state CSV
+North Dakota,2000,200005,June-May,43.7,data (21).csv,from NOAA state CSV
+North Dakota,2001,200105,June-May,39.5,data (21).csv,from NOAA state CSV
+North Dakota,2002,200205,June-May,41.9,data (21).csv,from NOAA state CSV
+North Dakota,2003,200305,June-May,40.7,data (21).csv,from NOAA state CSV
+North Dakota,2004,200405,June-May,41,data (21).csv,from NOAA state CSV
+North Dakota,2005,200505,June-May,41.4,data (21).csv,from NOAA state CSV
+North Dakota,2006,200605,June-May,44,data (21).csv,from NOAA state CSV
+North Dakota,2007,200705,June-May,42,data (21).csv,from NOAA state CSV
+North Dakota,2008,200805,June-May,40.7,data (21).csv,from NOAA state CSV
+North Dakota,2009,200905,June-May,38.5,data (21).csv,from NOAA state CSV
+North Dakota,2010,201005,June-May,40.4,data (21).csv,from NOAA state CSV
+North Dakota,2011,201105,June-May,38.8,data (21).csv,from NOAA state CSV
+North Dakota,2012,201205,June-May,45.4,data (21).csv,from NOAA state CSV
+North Dakota,2013,201305,June-May,39.8,data (21).csv,from NOAA state CSV
+North Dakota,2014,201405,June-May,38.6,data (21).csv,from NOAA state CSV
+North Dakota,2015,201505,June-May,41.1,data (21).csv,from NOAA state CSV
+North Dakota,2016,201605,June-May,45.1,data (21).csv,from NOAA state CSV
+North Dakota,2017,201705,June-May,42.8,data (21).csv,from NOAA state CSV
+North Dakota,2018,201805,June-May,40.2,data (21).csv,from NOAA state CSV
+North Dakota,2019,201905,June-May,38.4,data (21).csv,from NOAA state CSV
+North Dakota,2020,202005,June-May,40.6,data (21).csv,from NOAA state CSV
+North Dakota,2021,202105,June-May,42.7,data (21).csv,from NOAA state CSV
+North Dakota,2022,202205,June-May,41.7,data (21).csv,from NOAA state CSV
+North Dakota,2023,202305,June-May,39.8,data (21).csv,from NOAA state CSV
+Ohio,1992,199205,June-May,51.9,data (22).csv,from NOAA state CSV
+Ohio,1993,199305,June-May,49.7,data (22).csv,from NOAA state CSV
+Ohio,1994,199405,June-May,49.5,data (22).csv,from NOAA state CSV
+Ohio,1995,199505,June-May,51.4,data (22).csv,from NOAA state CSV
+Ohio,1996,199605,June-May,49.6,data (22).csv,from NOAA state CSV
+Ohio,1997,199705,June-May,50.2,data (22).csv,from NOAA state CSV
+Ohio,1998,199805,June-May,52.4,data (22).csv,from NOAA state CSV
+Ohio,1999,199905,June-May,52.5,data (22).csv,from NOAA state CSV
+Ohio,2000,200005,June-May,52.8,data (22).csv,from NOAA state CSV
+Ohio,2001,200105,June-May,50.3,data (22).csv,from NOAA state CSV
+Ohio,2002,200205,June-May,52.7,data (22).csv,from NOAA state CSV
+Ohio,2003,200305,June-May,51,data (22).csv,from NOAA state CSV
+Ohio,2004,200405,June-May,51.3,data (22).csv,from NOAA state CSV
+Ohio,2005,200505,June-May,50.9,data (22).csv,from NOAA state CSV
+Ohio,2006,200605,June-May,53.2,data (22).csv,from NOAA state CSV
+Ohio,2007,200705,June-May,51.6,data (22).csv,from NOAA state CSV
+Ohio,2008,200805,June-May,51.9,data (22).csv,from NOAA state CSV
+Ohio,2009,200905,June-May,50.8,data (22).csv,from NOAA state CSV
+Ohio,2010,201005,June-May,51,data (22).csv,from NOAA state CSV
+Ohio,2011,201105,June-May,51.4,data (22).csv,from NOAA state CSV
+Ohio,2012,201205,June-May,54.7,data (22).csv,from NOAA state CSV
+Ohio,2013,201305,June-May,51.7,data (22).csv,from NOAA state CSV
+Ohio,2014,201405,June-May,49.3,data (22).csv,from NOAA state CSV
+Ohio,2015,201505,June-May,49.5,data (22).csv,from NOAA state CSV
+Ohio,2016,201605,June-May,53.5,data (22).csv,from NOAA state CSV
+Ohio,2017,201705,June-May,54.8,data (22).csv,from NOAA state CSV
+Ohio,2018,201805,June-May,51.5,data (22).csv,from NOAA state CSV
+Ohio,2019,201905,June-May,52.3,data (22).csv,from NOAA state CSV
+Ohio,2020,202005,June-May,52.9,data (22).csv,from NOAA state CSV
+Ohio,2021,202105,June-May,52.4,data (22).csv,from NOAA state CSV
+Ohio,2022,202205,June-May,53.1,data (22).csv,from NOAA state CSV
+Ohio,2023,202305,June-May,53.2,data (22).csv,from NOAA state CSV
+Oklahoma,1992,199205,June-May,60.4,data (23).csv,from NOAA state CSV
+Oklahoma,1993,199305,June-May,57.4,data (23).csv,from NOAA state CSV
+Oklahoma,1994,199405,June-May,58.9,data (23).csv,from NOAA state CSV
+Oklahoma,1995,199505,June-May,60,data (23).csv,from NOAA state CSV
+Oklahoma,1996,199605,June-May,59.3,data (23).csv,from NOAA state CSV
+Oklahoma,1997,199705,June-May,58.6,data (23).csv,from NOAA state CSV
+Oklahoma,1998,199805,June-May,59.5,data (23).csv,from NOAA state CSV
+Oklahoma,1999,199905,June-May,62.5,data (23).csv,from NOAA state CSV
+Oklahoma,2000,200005,June-May,61.8,data (23).csv,from NOAA state CSV
+Oklahoma,2001,200105,June-May,59.2,data (23).csv,from NOAA state CSV
+Oklahoma,2002,200205,June-May,60.8,data (23).csv,from NOAA state CSV
+Oklahoma,2003,200305,June-May,59.3,data (23).csv,from NOAA state CSV
+Oklahoma,2004,200405,June-May,60.6,data (23).csv,from NOAA state CSV
+Oklahoma,2005,200505,June-May,60,data (23).csv,from NOAA state CSV
+Oklahoma,2006,200605,June-May,62.1,data (23).csv,from NOAA state CSV
+Oklahoma,2007,200705,June-May,60.5,data (23).csv,from NOAA state CSV
+Oklahoma,2008,200805,June-May,60,data (23).csv,from NOAA state CSV
+Oklahoma,2009,200905,June-May,59.9,data (23).csv,from NOAA state CSV
+Oklahoma,2010,201005,June-May,58.5,data (23).csv,from NOAA state CSV
+Oklahoma,2011,201105,June-May,60.9,data (23).csv,from NOAA state CSV
+Oklahoma,2012,201205,June-May,63.8,data (23).csv,from NOAA state CSV
+Oklahoma,2013,201305,June-May,60.4,data (23).csv,from NOAA state CSV
+Oklahoma,2014,201405,June-May,58.6,data (23).csv,from NOAA state CSV
+Oklahoma,2015,201505,June-May,59.5,data (23).csv,from NOAA state CSV
+Oklahoma,2016,201605,June-May,62,data (23).csv,from NOAA state CSV
+Oklahoma,2017,201705,June-May,63,data (23).csv,from NOAA state CSV
+Oklahoma,2018,201805,June-May,60.5,data (23).csv,from NOAA state CSV
+Oklahoma,2019,201905,June-May,59.7,data (23).csv,from NOAA state CSV
+Oklahoma,2020,202005,June-May,60.8,data (23).csv,from NOAA state CSV
+Oklahoma,2021,202105,June-May,59.3,data (23).csv,from NOAA state CSV
+Oklahoma,2022,202205,June-May,61.6,data (23).csv,from NOAA state CSV
+Oklahoma,2023,202305,June-May,61.5,data (23).csv,from NOAA state CSV
+Oregon,1992,199205,June-May,49.8,data (24).csv,from NOAA state CSV
+Oregon,1993,199305,June-May,46.8,data (24).csv,from NOAA state CSV
+Oregon,1994,199405,June-May,46.9,data (24).csv,from NOAA state CSV
+Oregon,1995,199505,June-May,47.6,data (24).csv,from NOAA state CSV
+Oregon,1996,199605,June-May,47.5,data (24).csv,from NOAA state CSV
+Oregon,1997,199705,June-May,48,data (24).csv,from NOAA state CSV
+Oregon,1998,199805,June-May,47.4,data (24).csv,from NOAA state CSV
+Oregon,1999,199905,June-May,47.1,data (24).csv,from NOAA state CSV
+Oregon,2000,200005,June-May,48.2,data (24).csv,from NOAA state CSV
+Oregon,2001,200105,June-May,47.1,data (24).csv,from NOAA state CSV
+Oregon,2002,200205,June-May,47.5,data (24).csv,from NOAA state CSV
+Oregon,2003,200305,June-May,48.5,data (24).csv,from NOAA state CSV
+Oregon,2004,200405,June-May,49.1,data (24).csv,from NOAA state CSV
+Oregon,2005,200505,June-May,48.4,data (24).csv,from NOAA state CSV
+Oregon,2006,200605,June-May,47.2,data (24).csv,from NOAA state CSV
+Oregon,2007,200705,June-May,48.4,data (24).csv,from NOAA state CSV
+Oregon,2008,200805,June-May,46.5,data (24).csv,from NOAA state CSV
+Oregon,2009,200905,June-May,47.6,data (24).csv,from NOAA state CSV
+Oregon,2010,201005,June-May,47.3,data (24).csv,from NOAA state CSV
+Oregon,2011,201105,June-May,46.1,data (24).csv,from NOAA state CSV
+Oregon,2012,201205,June-May,47.4,data (24).csv,from NOAA state CSV
+Oregon,2013,201305,June-May,47.9,data (24).csv,from NOAA state CSV
+Oregon,2014,201405,June-May,48.5,data (24).csv,from NOAA state CSV
+Oregon,2015,201505,June-May,50.5,data (24).csv,from NOAA state CSV
+Oregon,2016,201605,June-May,49.9,data (24).csv,from NOAA state CSV
+Oregon,2017,201705,June-May,47.2,data (24).csv,from NOAA state CSV
+Oregon,2018,201805,June-May,48.9,data (24).csv,from NOAA state CSV
+Oregon,2019,201905,June-May,47.7,data (24).csv,from NOAA state CSV
+Oregon,2020,202005,June-May,47.8,data (24).csv,from NOAA state CSV
+Oregon,2021,202105,June-May,48.6,data (24).csv,from NOAA state CSV
+Oregon,2022,202205,June-May,48.8,data (24).csv,from NOAA state CSV
+Oregon,2023,202305,June-May,47.9,data (24).csv,from NOAA state CSV
+Pennsylvania,1992,199205,June-May,49.3,data (25).csv,from NOAA state CSV
+Pennsylvania,1993,199305,June-May,47.4,data (25).csv,from NOAA state CSV
+Pennsylvania,1994,199405,June-May,47.2,data (25).csv,from NOAA state CSV
+Pennsylvania,1995,199505,June-May,49.2,data (25).csv,from NOAA state CSV
+Pennsylvania,1996,199605,June-May,47.7,data (25).csv,from NOAA state CSV
+Pennsylvania,1997,199705,June-May,48.3,data (25).csv,from NOAA state CSV
+Pennsylvania,1998,199805,June-May,50.4,data (25).csv,from NOAA state CSV
+Pennsylvania,1999,199905,June-May,50,data (25).csv,from NOAA state CSV
+Pennsylvania,2000,200005,June-May,50.5,data (25).csv,from NOAA state CSV
+Pennsylvania,2001,200105,June-May,47.8,data (25).csv,from NOAA state CSV
+Pennsylvania,2002,200205,June-May,50.9,data (25).csv,from NOAA state CSV
+Pennsylvania,2003,200305,June-May,48.3,data (25).csv,from NOAA state CSV
+Pennsylvania,2004,200405,June-May,49,data (25).csv,from NOAA state CSV
+Pennsylvania,2005,200505,June-May,48.6,data (25).csv,from NOAA state CSV
+Pennsylvania,2006,200605,June-May,51,data (25).csv,from NOAA state CSV
+Pennsylvania,2007,200705,June-May,49.4,data (25).csv,from NOAA state CSV
+Pennsylvania,2008,200805,June-May,49.8,data (25).csv,from NOAA state CSV
+Pennsylvania,2009,200905,June-May,48.7,data (25).csv,from NOAA state CSV
+Pennsylvania,2010,201005,June-May,49.3,data (25).csv,from NOAA state CSV
+Pennsylvania,2011,201105,June-May,49.4,data (25).csv,from NOAA state CSV
+Pennsylvania,2012,201205,June-May,52.5,data (25).csv,from NOAA state CSV
+Pennsylvania,2013,201305,June-May,49.7,data (25).csv,from NOAA state CSV
+Pennsylvania,2014,201405,June-May,47.5,data (25).csv,from NOAA state CSV
+Pennsylvania,2015,201505,June-May,47.7,data (25).csv,from NOAA state CSV
+Pennsylvania,2016,201605,June-May,51.3,data (25).csv,from NOAA state CSV
+Pennsylvania,2017,201705,June-May,51.8,data (25).csv,from NOAA state CSV
+Pennsylvania,2018,201805,June-May,49.2,data (25).csv,from NOAA state CSV
+Pennsylvania,2019,201905,June-May,50.1,data (25).csv,from NOAA state CSV
+Pennsylvania,2020,202005,June-May,50.5,data (25).csv,from NOAA state CSV
+Pennsylvania,2021,202105,June-May,50.7,data (25).csv,from NOAA state CSV
+Pennsylvania,2022,202205,June-May,50.8,data (25).csv,from NOAA state CSV
+Pennsylvania,2023,202305,June-May,51.2,data (25).csv,from NOAA state CSV
+Rhode Island,1992,199205,June-May,49.8,data (26).csv,from NOAA state CSV
+Rhode Island,1993,199305,June-May,48.4,data (26).csv,from NOAA state CSV
+Rhode Island,1994,199405,June-May,48.7,data (26).csv,from NOAA state CSV
+Rhode Island,1995,199505,June-May,50.9,data (26).csv,from NOAA state CSV
+Rhode Island,1996,199605,June-May,49,data (26).csv,from NOAA state CSV
+Rhode Island,1997,199705,June-May,49.7,data (26).csv,from NOAA state CSV
+Rhode Island,1998,199805,June-May,51,data (26).csv,from NOAA state CSV
+Rhode Island,1999,199905,June-May,51.2,data (26).csv,from NOAA state CSV
+Rhode Island,2000,200005,June-May,51.5,data (26).csv,from NOAA state CSV
+Rhode Island,2001,200105,June-May,49.1,data (26).csv,from NOAA state CSV
+Rhode Island,2002,200205,June-May,52.2,data (26).csv,from NOAA state CSV
+Rhode Island,2003,200305,June-May,48.6,data (26).csv,from NOAA state CSV
+Rhode Island,2004,200405,June-May,50,data (26).csv,from NOAA state CSV
+Rhode Island,2005,200505,June-May,48.9,data (26).csv,from NOAA state CSV
+Rhode Island,2006,200605,June-May,51.7,data (26).csv,from NOAA state CSV
+Rhode Island,2007,200705,June-May,50.9,data (26).csv,from NOAA state CSV
+Rhode Island,2008,200805,June-May,50.9,data (26).csv,from NOAA state CSV
+Rhode Island,2009,200905,June-May,50.2,data (26).csv,from NOAA state CSV
+Rhode Island,2010,201005,June-May,51.2,data (26).csv,from NOAA state CSV
+Rhode Island,2011,201105,June-May,50.6,data (26).csv,from NOAA state CSV
+Rhode Island,2012,201205,June-May,53.7,data (26).csv,from NOAA state CSV
+Rhode Island,2013,201305,June-May,51.1,data (26).csv,from NOAA state CSV
+Rhode Island,2014,201405,June-May,49.6,data (26).csv,from NOAA state CSV
+Rhode Island,2015,201505,June-May,49.1,data (26).csv,from NOAA state CSV
+Rhode Island,2016,201605,June-May,52.8,data (26).csv,from NOAA state CSV
+Rhode Island,2017,201705,June-May,52.2,data (26).csv,from NOAA state CSV
+Rhode Island,2018,201805,June-May,51.3,data (26).csv,from NOAA state CSV
+Rhode Island,2019,201905,June-May,51,data (26).csv,from NOAA state CSV
+Rhode Island,2020,202005,June-May,51.6,data (26).csv,from NOAA state CSV
+Rhode Island,2021,202105,June-May,52.4,data (26).csv,from NOAA state CSV
+Rhode Island,2022,202205,June-May,52.5,data (26).csv,from NOAA state CSV
+Rhode Island,2023,202305,June-May,52.9,data (26).csv,from NOAA state CSV
+South Carolina,1992,199205,June-May,62.6,data (27).csv,from NOAA state CSV
+South Carolina,1993,199305,June-May,61.6,data (27).csv,from NOAA state CSV
+South Carolina,1994,199405,June-May,63.1,data (27).csv,from NOAA state CSV
+South Carolina,1995,199505,June-May,63.1,data (27).csv,from NOAA state CSV
+South Carolina,1996,199605,June-May,61.7,data (27).csv,from NOAA state CSV
+South Carolina,1997,199705,June-May,62.5,data (27).csv,from NOAA state CSV
+South Carolina,1998,199805,June-May,62.4,data (27).csv,from NOAA state CSV
+South Carolina,1999,199905,June-May,64.6,data (27).csv,from NOAA state CSV
+South Carolina,2000,200005,June-May,63.5,data (27).csv,from NOAA state CSV
+South Carolina,2001,200105,June-May,61.9,data (27).csv,from NOAA state CSV
+South Carolina,2002,200205,June-May,63.8,data (27).csv,from NOAA state CSV
+South Carolina,2003,200305,June-May,62.8,data (27).csv,from NOAA state CSV
+South Carolina,2004,200405,June-May,62.7,data (27).csv,from NOAA state CSV
+South Carolina,2005,200505,June-May,62.8,data (27).csv,from NOAA state CSV
+South Carolina,2006,200605,June-May,63.9,data (27).csv,from NOAA state CSV
+South Carolina,2007,200705,June-May,63.3,data (27).csv,from NOAA state CSV
+South Carolina,2008,200805,June-May,64.1,data (27).csv,from NOAA state CSV
+South Carolina,2009,200905,June-May,62.8,data (27).csv,from NOAA state CSV
+South Carolina,2010,201005,June-May,62.2,data (27).csv,from NOAA state CSV
+South Carolina,2011,201105,June-May,63.5,data (27).csv,from NOAA state CSV
+South Carolina,2012,201205,June-May,65.4,data (27).csv,from NOAA state CSV
+South Carolina,2013,201305,June-May,62.5,data (27).csv,from NOAA state CSV
+South Carolina,2014,201405,June-May,62.1,data (27).csv,from NOAA state CSV
+South Carolina,2015,201505,June-May,62.6,data (27).csv,from NOAA state CSV
+South Carolina,2016,201605,June-May,65.1,data (27).csv,from NOAA state CSV
+South Carolina,2017,201705,June-May,66.2,data (27).csv,from NOAA state CSV
+South Carolina,2018,201805,June-May,63.6,data (27).csv,from NOAA state CSV
+South Carolina,2019,201905,June-May,65,data (27).csv,from NOAA state CSV
+South Carolina,2020,202005,June-May,64.9,data (27).csv,from NOAA state CSV
+South Carolina,2021,202105,June-May,63.8,data (27).csv,from NOAA state CSV
+South Carolina,2022,202205,June-May,64.3,data (27).csv,from NOAA state CSV
+South Carolina,2023,202305,June-May,64.3,data (27).csv,from NOAA state CSV
+South Dakota,1992,199205,June-May,47.9,data (28).csv,from NOAA state CSV
+South Dakota,1993,199305,June-May,42.1,data (28).csv,from NOAA state CSV
+South Dakota,1994,199405,June-May,42.7,data (28).csv,from NOAA state CSV
+South Dakota,1995,199505,June-May,45.2,data (28).csv,from NOAA state CSV
+South Dakota,1996,199605,June-May,43.4,data (28).csv,from NOAA state CSV
+South Dakota,1997,199705,June-May,42.1,data (28).csv,from NOAA state CSV
+South Dakota,1998,199805,June-May,47,data (28).csv,from NOAA state CSV
+South Dakota,1999,199905,June-May,47.7,data (28).csv,from NOAA state CSV
+South Dakota,2000,200005,June-May,48.3,data (28).csv,from NOAA state CSV
+South Dakota,2001,200105,June-May,43.9,data (28).csv,from NOAA state CSV
+South Dakota,2002,200205,June-May,46.8,data (28).csv,from NOAA state CSV
+South Dakota,2003,200305,June-May,46.3,data (28).csv,from NOAA state CSV
+South Dakota,2004,200405,June-May,46.7,data (28).csv,from NOAA state CSV
+South Dakota,2005,200505,June-May,46.5,data (28).csv,from NOAA state CSV
+South Dakota,2006,200605,June-May,48.4,data (28).csv,from NOAA state CSV
+South Dakota,2007,200705,June-May,46.7,data (28).csv,from NOAA state CSV
+South Dakota,2008,200805,June-May,45.5,data (28).csv,from NOAA state CSV
+South Dakota,2009,200905,June-May,44.3,data (28).csv,from NOAA state CSV
+South Dakota,2010,201005,June-May,43.6,data (28).csv,from NOAA state CSV
+South Dakota,2011,201105,June-May,43.8,data (28).csv,from NOAA state CSV
+South Dakota,2012,201205,June-May,49.3,data (28).csv,from NOAA state CSV
+South Dakota,2013,201305,June-May,45.7,data (28).csv,from NOAA state CSV
+South Dakota,2014,201405,June-May,43.8,data (28).csv,from NOAA state CSV
+South Dakota,2015,201505,June-May,45.5,data (28).csv,from NOAA state CSV
+South Dakota,2016,201605,June-May,48.5,data (28).csv,from NOAA state CSV
+South Dakota,2017,201705,June-May,47.5,data (28).csv,from NOAA state CSV
+South Dakota,2018,201805,June-May,44.7,data (28).csv,from NOAA state CSV
+South Dakota,2019,201905,June-May,42.9,data (28).csv,from NOAA state CSV
+South Dakota,2020,202005,June-May,45,data (28).csv,from NOAA state CSV
+South Dakota,2021,202105,June-May,46.9,data (28).csv,from NOAA state CSV
+South Dakota,2022,202205,June-May,47.2,data (28).csv,from NOAA state CSV
+South Dakota,2023,202305,June-May,45.2,data (28).csv,from NOAA state CSV
+Tennessee,1992,199205,June-May,58.2,data (29).csv,from NOAA state CSV
+Tennessee,1993,199305,June-May,56.3,data (29).csv,from NOAA state CSV
+Tennessee,1994,199405,June-May,57.2,data (29).csv,from NOAA state CSV
+Tennessee,1995,199505,June-May,58.4,data (29).csv,from NOAA state CSV
+Tennessee,1996,199605,June-May,56.4,data (29).csv,from NOAA state CSV
+Tennessee,1997,199705,June-May,57.2,data (29).csv,from NOAA state CSV
+Tennessee,1998,199805,June-May,57.9,data (29).csv,from NOAA state CSV
+Tennessee,1999,199905,June-May,59.9,data (29).csv,from NOAA state CSV
+Tennessee,2000,200005,June-May,59.4,data (29).csv,from NOAA state CSV
+Tennessee,2001,200105,June-May,57.3,data (29).csv,from NOAA state CSV
+Tennessee,2002,200205,June-May,58.5,data (29).csv,from NOAA state CSV
+Tennessee,2003,200305,June-May,58.2,data (29).csv,from NOAA state CSV
+Tennessee,2004,200405,June-May,58.2,data (29).csv,from NOAA state CSV
+Tennessee,2005,200505,June-May,58.4,data (29).csv,from NOAA state CSV
+Tennessee,2006,200605,June-May,59.2,data (29).csv,from NOAA state CSV
+Tennessee,2007,200705,June-May,58.5,data (29).csv,from NOAA state CSV
+Tennessee,2008,200805,June-May,59.4,data (29).csv,from NOAA state CSV
+Tennessee,2009,200905,June-May,57.8,data (29).csv,from NOAA state CSV
+Tennessee,2010,201005,June-May,56.9,data (29).csv,from NOAA state CSV
+Tennessee,2011,201105,June-May,58.8,data (29).csv,from NOAA state CSV
+Tennessee,2012,201205,June-May,60.8,data (29).csv,from NOAA state CSV
+Tennessee,2013,201305,June-May,57.8,data (29).csv,from NOAA state CSV
+Tennessee,2014,201405,June-May,56.5,data (29).csv,from NOAA state CSV
+Tennessee,2015,201505,June-May,57.1,data (29).csv,from NOAA state CSV
+Tennessee,2016,201605,June-May,60,data (29).csv,from NOAA state CSV
+Tennessee,2017,201705,June-May,61.9,data (29).csv,from NOAA state CSV
+Tennessee,2018,201805,June-May,58.3,data (29).csv,from NOAA state CSV
+Tennessee,2019,201905,June-May,59.7,data (29).csv,from NOAA state CSV
+Tennessee,2020,202005,June-May,59.7,data (29).csv,from NOAA state CSV
+Tennessee,2021,202105,June-May,58.5,data (29).csv,from NOAA state CSV
+Tennessee,2022,202205,June-May,59.3,data (29).csv,from NOAA state CSV
+Tennessee,2023,202305,June-May,59.7,data (29).csv,from NOAA state CSV
+Texas,1992,199205,June-May,64.3,data (30).csv,from NOAA state CSV
+Texas,1993,199305,June-May,63.8,data (30).csv,from NOAA state CSV
+Texas,1994,199405,June-May,64.6,data (30).csv,from NOAA state CSV
+Texas,1995,199505,June-May,65.9,data (30).csv,from NOAA state CSV
+Texas,1996,199605,June-May,65.3,data (30).csv,from NOAA state CSV
+Texas,1997,199705,June-May,64.5,data (30).csv,from NOAA state CSV
+Texas,1998,199805,June-May,65,data (30).csv,from NOAA state CSV
+Texas,1999,199905,June-May,67.6,data (30).csv,from NOAA state CSV
+Texas,2000,200005,June-May,67.3,data (30).csv,from NOAA state CSV
+Texas,2001,200105,June-May,64.7,data (30).csv,from NOAA state CSV
+Texas,2002,200205,June-May,66,data (30).csv,from NOAA state CSV
+Texas,2003,200305,June-May,65,data (30).csv,from NOAA state CSV
+Texas,2004,200405,June-May,65.7,data (30).csv,from NOAA state CSV
+Texas,2005,200505,June-May,65.2,data (30).csv,from NOAA state CSV
+Texas,2006,200605,June-May,67.3,data (30).csv,from NOAA state CSV
+Texas,2007,200705,June-May,65.1,data (30).csv,from NOAA state CSV
+Texas,2008,200805,June-May,65.7,data (30).csv,from NOAA state CSV
+Texas,2009,200905,June-May,65.9,data (30).csv,from NOAA state CSV
+Texas,2010,201005,June-May,64.2,data (30).csv,from NOAA state CSV
+Texas,2011,201105,June-May,66.6,data (30).csv,from NOAA state CSV
+Texas,2012,201205,June-May,68.3,data (30).csv,from NOAA state CSV
+Texas,2013,201305,June-May,66.2,data (30).csv,from NOAA state CSV
+Texas,2014,201405,June-May,64.5,data (30).csv,from NOAA state CSV
+Texas,2015,201505,June-May,65,data (30).csv,from NOAA state CSV
+Texas,2016,201605,June-May,66.9,data (30).csv,from NOAA state CSV
+Texas,2017,201705,June-May,68.2,data (30).csv,from NOAA state CSV
+Texas,2018,201805,June-May,66.2,data (30).csv,from NOAA state CSV
+Texas,2019,201905,June-May,65.5,data (30).csv,from NOAA state CSV
+Texas,2020,202005,June-May,66.8,data (30).csv,from NOAA state CSV
+Texas,2021,202105,June-May,65.5,data (30).csv,from NOAA state CSV
+Texas,2022,202205,June-May,66.9,data (30).csv,from NOAA state CSV
+Texas,2023,202305,June-May,67.1,data (30).csv,from NOAA state CSV
+Utah,1992,199205,June-May,49.5,data (31).csv,from NOAA state CSV
+Utah,1993,199305,June-May,47.6,data (31).csv,from NOAA state CSV
+Utah,1994,199405,June-May,47.8,data (31).csv,from NOAA state CSV
+Utah,1995,199505,June-May,49.2,data (31).csv,from NOAA state CSV
+Utah,1996,199605,June-May,49.5,data (31).csv,from NOAA state CSV
+Utah,1997,199705,June-May,49,data (31).csv,from NOAA state CSV
+Utah,1998,199805,June-May,48.1,data (31).csv,from NOAA state CSV
+Utah,1999,199905,June-May,48.6,data (31).csv,from NOAA state CSV
+Utah,2000,200005,June-May,50.4,data (31).csv,from NOAA state CSV
+Utah,2001,200105,June-May,49.3,data (31).csv,from NOAA state CSV
+Utah,2002,200205,June-May,49.3,data (31).csv,from NOAA state CSV
+Utah,2003,200305,June-May,49.9,data (31).csv,from NOAA state CSV
+Utah,2004,200405,June-May,50,data (31).csv,from NOAA state CSV
+Utah,2005,200505,June-May,49.1,data (31).csv,from NOAA state CSV
+Utah,2006,200605,June-May,49.2,data (31).csv,from NOAA state CSV
+Utah,2007,200705,June-May,49.2,data (31).csv,from NOAA state CSV
+Utah,2008,200805,June-May,48.3,data (31).csv,from NOAA state CSV
+Utah,2009,200905,June-May,49.7,data (31).csv,from NOAA state CSV
+Utah,2010,201005,June-May,47.1,data (31).csv,from NOAA state CSV
+Utah,2011,201105,June-May,48.1,data (31).csv,from NOAA state CSV
+Utah,2012,201205,June-May,49.7,data (31).csv,from NOAA state CSV
+Utah,2013,201305,June-May,49,data (31).csv,from NOAA state CSV
+Utah,2014,201405,June-May,49.5,data (31).csv,from NOAA state CSV
+Utah,2015,201505,June-May,51,data (31).csv,from NOAA state CSV
+Utah,2016,201605,June-May,49.7,data (31).csv,from NOAA state CSV
+Utah,2017,201705,June-May,50.6,data (31).csv,from NOAA state CSV
+Utah,2018,201805,June-May,50.9,data (31).csv,from NOAA state CSV
+Utah,2019,201905,June-May,48.7,data (31).csv,from NOAA state CSV
+Utah,2020,202005,June-May,49.2,data (31).csv,from NOAA state CSV
+Utah,2021,202105,June-May,50.1,data (31).csv,from NOAA state CSV
+Utah,2022,202205,June-May,50.5,data (31).csv,from NOAA state CSV
+Utah,2023,202305,June-May,48.4,data (31).csv,from NOAA state CSV
+Vermont,1992,199205,June-May,41.7,data (32).csv,from NOAA state CSV
+Vermont,1993,199305,June-May,40.6,data (32).csv,from NOAA state CSV
+Vermont,1994,199405,June-May,40.2,data (32).csv,from NOAA state CSV
+Vermont,1995,199505,June-May,43.3,data (32).csv,from NOAA state CSV
+Vermont,1996,199605,June-May,41.5,data (32).csv,from NOAA state CSV
+Vermont,1997,199705,June-May,42,data (32).csv,from NOAA state CSV
+Vermont,1998,199805,June-May,43.7,data (32).csv,from NOAA state CSV
+Vermont,1999,199905,June-May,43.9,data (32).csv,from NOAA state CSV
+Vermont,2000,200005,June-May,44.1,data (32).csv,from NOAA state CSV
+Vermont,2001,200105,June-May,41.4,data (32).csv,from NOAA state CSV
+Vermont,2002,200205,June-May,45,data (32).csv,from NOAA state CSV
+Vermont,2003,200305,June-May,41.1,data (32).csv,from NOAA state CSV
+Vermont,2004,200405,June-May,42.4,data (32).csv,from NOAA state CSV
+Vermont,2005,200505,June-May,41.8,data (32).csv,from NOAA state CSV
+Vermont,2006,200605,June-May,45.2,data (32).csv,from NOAA state CSV
+Vermont,2007,200705,June-May,43.1,data (32).csv,from NOAA state CSV
+Vermont,2008,200805,June-May,43.2,data (32).csv,from NOAA state CSV
+Vermont,2009,200905,June-May,42.6,data (32).csv,from NOAA state CSV
+Vermont,2010,201005,June-May,44.4,data (32).csv,from NOAA state CSV
+Vermont,2011,201105,June-May,43,data (32).csv,from NOAA state CSV
+Vermont,2012,201205,June-May,46.6,data (32).csv,from NOAA state CSV
+Vermont,2013,201305,June-May,44.2,data (32).csv,from NOAA state CSV
+Vermont,2014,201405,June-May,41.4,data (32).csv,from NOAA state CSV
+Vermont,2015,201505,June-May,41.5,data (32).csv,from NOAA state CSV
+Vermont,2016,201605,June-May,45.4,data (32).csv,from NOAA state CSV
+Vermont,2017,201705,June-May,44.7,data (32).csv,from NOAA state CSV
+Vermont,2018,201805,June-May,43.1,data (32).csv,from NOAA state CSV
+Vermont,2019,201905,June-May,42.3,data (32).csv,from NOAA state CSV
+Vermont,2020,202005,June-May,43.4,data (32).csv,from NOAA state CSV
+Vermont,2021,202105,June-May,44.5,data (32).csv,from NOAA state CSV
+Vermont,2022,202205,June-May,44.5,data (32).csv,from NOAA state CSV
+Vermont,2023,202305,June-May,45.5,data (32).csv,from NOAA state CSV
+Virginia,1992,199205,June-May,55.7,data (33).csv,from NOAA state CSV
+Virginia,1993,199305,June-May,54.1,data (33).csv,from NOAA state CSV
+Virginia,1994,199405,June-May,54.9,data (33).csv,from NOAA state CSV
+Virginia,1995,199505,June-May,55.9,data (33).csv,from NOAA state CSV
+Virginia,1996,199605,June-May,54.1,data (33).csv,from NOAA state CSV
+Virginia,1997,199705,June-May,54.7,data (33).csv,from NOAA state CSV
+Virginia,1998,199805,June-May,55.7,data (33).csv,from NOAA state CSV
+Virginia,1999,199905,June-May,56.7,data (33).csv,from NOAA state CSV
+Virginia,2000,200005,June-May,56.6,data (33).csv,from NOAA state CSV
+Virginia,2001,200105,June-May,54.3,data (33).csv,from NOAA state CSV
+Virginia,2002,200205,June-May,56.6,data (33).csv,from NOAA state CSV
+Virginia,2003,200305,June-May,55.3,data (33).csv,from NOAA state CSV
+Virginia,2004,200405,June-May,55.8,data (33).csv,from NOAA state CSV
+Virginia,2005,200505,June-May,55.3,data (33).csv,from NOAA state CSV
+Virginia,2006,200605,June-May,56.9,data (33).csv,from NOAA state CSV
+Virginia,2007,200705,June-May,56.1,data (33).csv,from NOAA state CSV
+Virginia,2008,200805,June-May,56.9,data (33).csv,from NOAA state CSV
+Virginia,2009,200905,June-May,55.4,data (33).csv,from NOAA state CSV
+Virginia,2010,201005,June-May,55.2,data (33).csv,from NOAA state CSV
+Virginia,2011,201105,June-May,56.4,data (33).csv,from NOAA state CSV
+Virginia,2012,201205,June-May,58.4,data (33).csv,from NOAA state CSV
+Virginia,2013,201305,June-May,55.5,data (33).csv,from NOAA state CSV
+Virginia,2014,201405,June-May,54.6,data (33).csv,from NOAA state CSV
+Virginia,2015,201505,June-May,54.7,data (33).csv,from NOAA state CSV
+Virginia,2016,201605,June-May,57.4,data (33).csv,from NOAA state CSV
+Virginia,2017,201705,June-May,58.4,data (33).csv,from NOAA state CSV
+Virginia,2018,201805,June-May,56,data (33).csv,from NOAA state CSV
+Virginia,2019,201905,June-May,57.3,data (33).csv,from NOAA state CSV
+Virginia,2020,202005,June-May,57.4,data (33).csv,from NOAA state CSV
+Virginia,2021,202105,June-May,56.7,data (33).csv,from NOAA state CSV
+Virginia,2022,202205,June-May,57.3,data (33).csv,from NOAA state CSV
+Virginia,2023,202305,June-May,57.3,data (33).csv,from NOAA state CSV
+Washington,1992,199205,June-May,48.9,data (34).csv,from NOAA state CSV
+Washington,1993,199305,June-May,46.3,data (34).csv,from NOAA state CSV
+Washington,1994,199405,June-May,47.1,data (34).csv,from NOAA state CSV
+Washington,1995,199505,June-May,47.6,data (34).csv,from NOAA state CSV
+Washington,1996,199605,June-May,46.3,data (34).csv,from NOAA state CSV
+Washington,1997,199705,June-May,46.2,data (34).csv,from NOAA state CSV
+Washington,1998,199805,June-May,47.8,data (34).csv,from NOAA state CSV
+Washington,1999,199905,June-May,47.8,data (34).csv,from NOAA state CSV
+Washington,2000,200005,June-May,47.2,data (34).csv,from NOAA state CSV
+Washington,2001,200105,June-May,45.9,data (34).csv,from NOAA state CSV
+Washington,2002,200205,June-May,46.6,data (34).csv,from NOAA state CSV
+Washington,2003,200305,June-May,47.9,data (34).csv,from NOAA state CSV
+Washington,2004,200405,June-May,48.2,data (34).csv,from NOAA state CSV
+Washington,2005,200505,June-May,48.6,data (34).csv,from NOAA state CSV
+Washington,2006,200605,June-May,46.9,data (34).csv,from NOAA state CSV
+Washington,2007,200705,June-May,47.3,data (34).csv,from NOAA state CSV
+Washington,2008,200805,June-May,46,data (34).csv,from NOAA state CSV
+Washington,2009,200905,June-May,45.9,data (34).csv,from NOAA state CSV
+Washington,2010,201005,June-May,47.5,data (34).csv,from NOAA state CSV
+Washington,2011,201105,June-May,45.5,data (34).csv,from NOAA state CSV
+Washington,2012,201205,June-May,46.3,data (34).csv,from NOAA state CSV
+Washington,2013,201305,June-May,47.3,data (34).csv,from NOAA state CSV
+Washington,2014,201405,June-May,47.2,data (34).csv,from NOAA state CSV
+Washington,2015,201505,June-May,49.9,data (34).csv,from NOAA state CSV
+Washington,2016,201605,June-May,49.8,data (34).csv,from NOAA state CSV
+Washington,2017,201705,June-May,46.3,data (34).csv,from NOAA state CSV
+Washington,2018,201805,June-May,48.2,data (34).csv,from NOAA state CSV
+Washington,2019,201905,June-May,47.1,data (34).csv,from NOAA state CSV
+Washington,2020,202005,June-May,47.3,data (34).csv,from NOAA state CSV
+Washington,2021,202105,June-May,47.9,data (34).csv,from NOAA state CSV
+Washington,2022,202205,June-May,47.5,data (34).csv,from NOAA state CSV
+Washington,2023,202305,June-May,47.8,data (34).csv,from NOAA state CSV
+West Virginia,1992,199205,June-May,52.5,data (35).csv,from NOAA state CSV
+West Virginia,1993,199305,June-May,51.1,data (35).csv,from NOAA state CSV
+West Virginia,1994,199405,June-May,51.2,data (35).csv,from NOAA state CSV
+West Virginia,1995,199505,June-May,52.5,data (35).csv,from NOAA state CSV
+West Virginia,1996,199605,June-May,50.9,data (35).csv,from NOAA state CSV
+West Virginia,1997,199705,June-May,51.3,data (35).csv,from NOAA state CSV
+West Virginia,1998,199805,June-May,52.6,data (35).csv,from NOAA state CSV
+West Virginia,1999,199905,June-May,53.2,data (35).csv,from NOAA state CSV
+West Virginia,2000,200005,June-May,53.5,data (35).csv,from NOAA state CSV
+West Virginia,2001,200105,June-May,51.1,data (35).csv,from NOAA state CSV
+West Virginia,2002,200205,June-May,53.2,data (35).csv,from NOAA state CSV
+West Virginia,2003,200305,June-May,52.2,data (35).csv,from NOAA state CSV
+West Virginia,2004,200405,June-May,52.3,data (35).csv,from NOAA state CSV
+West Virginia,2005,200505,June-May,52.3,data (35).csv,from NOAA state CSV
+West Virginia,2006,200605,June-May,53.6,data (35).csv,from NOAA state CSV
+West Virginia,2007,200705,June-May,52.3,data (35).csv,from NOAA state CSV
+West Virginia,2008,200805,June-May,53.3,data (35).csv,from NOAA state CSV
+West Virginia,2009,200905,June-May,51.8,data (35).csv,from NOAA state CSV
+West Virginia,2010,201005,June-May,51.6,data (35).csv,from NOAA state CSV
+West Virginia,2011,201105,June-May,52.6,data (35).csv,from NOAA state CSV
+West Virginia,2012,201205,June-May,55.1,data (35).csv,from NOAA state CSV
+West Virginia,2013,201305,June-May,52.1,data (35).csv,from NOAA state CSV
+West Virginia,2014,201405,June-May,51,data (35).csv,from NOAA state CSV
+West Virginia,2015,201505,June-May,51.1,data (35).csv,from NOAA state CSV
+West Virginia,2016,201605,June-May,54.3,data (35).csv,from NOAA state CSV
+West Virginia,2017,201705,June-May,55.6,data (35).csv,from NOAA state CSV
+West Virginia,2018,201805,June-May,52.5,data (35).csv,from NOAA state CSV
+West Virginia,2019,201905,June-May,54,data (35).csv,from NOAA state CSV
+West Virginia,2020,202005,June-May,54.1,data (35).csv,from NOAA state CSV
+West Virginia,2021,202105,June-May,53.1,data (35).csv,from NOAA state CSV
+West Virginia,2022,202205,June-May,53.7,data (35).csv,from NOAA state CSV
+West Virginia,2023,202305,June-May,53.6,data (35).csv,from NOAA state CSV
+Wisconsin,1992,199205,June-May,43.8,data (36).csv,from NOAA state CSV
+Wisconsin,1993,199305,June-May,41.3,data (36).csv,from NOAA state CSV
+Wisconsin,1994,199405,June-May,41,data (36).csv,from NOAA state CSV
+Wisconsin,1995,199505,June-May,44.1,data (36).csv,from NOAA state CSV
+Wisconsin,1996,199605,June-May,41.2,data (36).csv,from NOAA state CSV
+Wisconsin,1997,199705,June-May,41.5,data (36).csv,from NOAA state CSV
+Wisconsin,1998,199805,June-May,45.9,data (36).csv,from NOAA state CSV
+Wisconsin,1999,199905,June-May,46,data (36).csv,from NOAA state CSV
+Wisconsin,2000,200005,June-May,45.7,data (36).csv,from NOAA state CSV
+Wisconsin,2001,200105,June-May,42.8,data (36).csv,from NOAA state CSV
+Wisconsin,2002,200205,June-May,45.6,data (36).csv,from NOAA state CSV
+Wisconsin,2003,200305,June-May,43.2,data (36).csv,from NOAA state CSV
+Wisconsin,2004,200405,June-May,44,data (36).csv,from NOAA state CSV
+Wisconsin,2005,200505,June-May,43.9,data (36).csv,from NOAA state CSV
+Wisconsin,2006,200605,June-May,46.4,data (36).csv,from NOAA state CSV
+Wisconsin,2007,200705,June-May,44.8,data (36).csv,from NOAA state CSV
+Wisconsin,2008,200805,June-May,43.1,data (36).csv,from NOAA state CSV
+Wisconsin,2009,200905,June-May,42.3,data (36).csv,from NOAA state CSV
+Wisconsin,2010,201005,June-May,44.5,data (36).csv,from NOAA state CSV
+Wisconsin,2011,201105,June-May,43.3,data (36).csv,from NOAA state CSV
+Wisconsin,2012,201205,June-May,47.7,data (36).csv,from NOAA state CSV
+Wisconsin,2013,201305,June-May,43.5,data (36).csv,from NOAA state CSV
+Wisconsin,2014,201405,June-May,40,data (36).csv,from NOAA state CSV
+Wisconsin,2015,201505,June-May,42.4,data (36).csv,from NOAA state CSV
+Wisconsin,2016,201605,June-May,46.4,data (36).csv,from NOAA state CSV
+Wisconsin,2017,201705,June-May,46.4,data (36).csv,from NOAA state CSV
+Wisconsin,2018,201805,June-May,43,data (36).csv,from NOAA state CSV
+Wisconsin,2019,201905,June-May,42.4,data (36).csv,from NOAA state CSV
+Wisconsin,2020,202005,June-May,44.1,data (36).csv,from NOAA state CSV
+Wisconsin,2021,202105,June-May,44.7,data (36).csv,from NOAA state CSV
+Wisconsin,2022,202205,June-May,44.3,data (36).csv,from NOAA state CSV
+Wisconsin,2023,202305,June-May,44.8,data (36).csv,from NOAA state CSV
+Wyoming,1992,199205,June-May,43.5,data (37).csv,from NOAA state CSV
+Wyoming,1993,199305,June-May,39.7,data (37).csv,from NOAA state CSV
+Wyoming,1994,199405,June-May,40.5,data (37).csv,from NOAA state CSV
+Wyoming,1995,199505,June-May,42.1,data (37).csv,from NOAA state CSV
+Wyoming,1996,199605,June-May,41.1,data (37).csv,from NOAA state CSV
+Wyoming,1997,199705,June-May,41.1,data (37).csv,from NOAA state CSV
+Wyoming,1998,199805,June-May,42,data (37).csv,from NOAA state CSV
+Wyoming,1999,199905,June-May,42.8,data (37).csv,from NOAA state CSV
+Wyoming,2000,200005,June-May,44,data (37).csv,from NOAA state CSV
+Wyoming,2001,200105,June-May,41.3,data (37).csv,from NOAA state CSV
+Wyoming,2002,200205,June-May,42.4,data (37).csv,from NOAA state CSV
+Wyoming,2003,200305,June-May,42.8,data (37).csv,from NOAA state CSV
+Wyoming,2004,200405,June-May,43,data (37).csv,from NOAA state CSV
+Wyoming,2005,200505,June-May,42.4,data (37).csv,from NOAA state CSV
+Wyoming,2006,200605,June-May,42.9,data (37).csv,from NOAA state CSV
+Wyoming,2007,200705,June-May,43,data (37).csv,from NOAA state CSV
+Wyoming,2008,200805,June-May,41.6,data (37).csv,from NOAA state CSV
+Wyoming,2009,200905,June-May,42.3,data (37).csv,from NOAA state CSV
+Wyoming,2010,201005,June-May,40.2,data (37).csv,from NOAA state CSV
+Wyoming,2011,201105,June-May,41.2,data (37).csv,from NOAA state CSV
+Wyoming,2012,201205,June-May,43.6,data (37).csv,from NOAA state CSV
+Wyoming,2013,201305,June-May,42.9,data (37).csv,from NOAA state CSV
+Wyoming,2014,201405,June-May,42.2,data (37).csv,from NOAA state CSV
+Wyoming,2015,201505,June-May,43.4,data (37).csv,from NOAA state CSV
+Wyoming,2016,201605,June-May,43.9,data (37).csv,from NOAA state CSV
+Wyoming,2017,201705,June-May,43.5,data (37).csv,from NOAA state CSV
+Wyoming,2018,201805,June-May,43,data (37).csv,from NOAA state CSV
+Wyoming,2019,201905,June-May,40.9,data (37).csv,from NOAA state CSV
+Wyoming,2020,202005,June-May,41.4,data (37).csv,from NOAA state CSV
+Wyoming,2021,202105,June-May,42.3,data (37).csv,from NOAA state CSV
+Wyoming,2022,202205,June-May,43.6,data (37).csv,from NOAA state CSV
+Wyoming,2023,202305,June-May,41.3,data (37).csv,from NOAA state CSV
