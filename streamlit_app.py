@@ -11,6 +11,7 @@ st.set_page_config(
 
 alt.data_transformers.disable_max_rows()
 
+#HTML stuff---------------------
 st.markdown(
     """
     <style>
@@ -210,9 +211,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# ============================================================
-# COLORS
-# ============================================================
+#color theme
 
 LYME_RED = "#d9474b"
 TEMP_RED = "#c85c5c"
@@ -229,9 +228,7 @@ REGION_COLORS = {
     "West": "#8ab7a1"
 }
 
-# ============================================================
-# FILE PATHS
-# ============================================================
+#load file path -------------
 
 BASE = Path("/workspaces/termproject-lyme/Files")
 
@@ -240,9 +237,7 @@ LYME_CSV = BASE / "lyme_1992_2023_state_year_cases_wide_FINAL.csv"
 TEMP_CSV = BASE / "combined_state_average_temperature_1992_2023_all_states.csv"
 MOUSE_CSV = BASE / "gbif_white_footed_mouse_state_year_1992_2023.csv"
 
-# ============================================================
-# STATE + REGION HELPERS
-# ============================================================
+#sort region
 
 STATE_TO_ABBR = {
     "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR",
@@ -296,9 +291,7 @@ def assign_region(state):
     else:
         return "Other"
 
-# ============================================================
-# SIDEBAR CONTROLS
-# ============================================================
+# YEAR FOCUS CHANGE SIDEBAR------------------------------
 
 st.sidebar.title("Change Year Focus")
 
@@ -309,9 +302,7 @@ year_range = st.sidebar.slider(
     value=(1992, 2023)
 )
 
-# ============================================================
-# HEADER
-# ============================================================
+#HEADLINE _---------------------------
 
 st.title("Climate Change and Lyme Disease")
 
@@ -329,9 +320,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# ============================================================
-# FUNCTIONS
-# ============================================================
+#DEFINE FUNCTIONS HERE------------------------------------------
 
 def read_csv_safe(path):
     for enc in ["utf-8", "utf-8-sig", "latin1", "cp1252"]:
@@ -382,7 +371,7 @@ def load_data():
     lyme["year"] = lyme["year"].astype(int)
     lyme["lyme_cases"] = pd.to_numeric(lyme["lyme_cases"], errors="coerce").fillna(0)
 
-    # Temperature
+    # temp
     if not TEMP_CSV.exists():
         st.error(f"Could not find temperature file at:\n{TEMP_CSV}")
         st.stop()
@@ -507,15 +496,11 @@ def custom_heading(text):
         unsafe_allow_html=True
     )
 
-# ============================================================
-# LOAD DATA
-# ============================================================
+#ALL DATA PUT HERE--------------------------------------------------------
 
 lyme, temp, mouse = load_data()
 
-# ============================================================
-# NATIONAL SERIES
-# ============================================================
+#national datasets----------------------------------------------------
 
 national_lyme = (
     lyme.groupby("year", as_index=False)["lyme_cases"]
@@ -582,9 +567,7 @@ national_mouse_f = national_mouse[
     (national_mouse["year"] >= start_year) & (national_mouse["year"] <= end_year)
 ].copy()
 
-# ============================================================
-# DISEASE TREND OVERVIEW
-# ============================================================
+#intro after explanation---------------------------------------
 
 custom_heading("Disease Trend Overview")
 
@@ -731,9 +714,8 @@ intro_lyme_chart = style_chart(
 )
 
 intro_chart_placeholder.altair_chart(intro_lyme_chart, use_container_width=True)
-# ============================================================
-# NATIONAL TREND CHARTS
-# ============================================================
+
+#national trends intro
 
 custom_heading("National Trends")
 
@@ -759,9 +741,7 @@ with trend_col:
         key="national_trend_type"
     )
 
-# -----------------------------
-# Lyme chart
-# -----------------------------
+#LYME CHART ---------------------------------------------
 
 lyme_zoom = alt.selection_interval(
     name="lyme_zoom",
@@ -835,9 +815,7 @@ lyme_chart = style_chart(
     height=320
 )
 
-# -----------------------------
-# Temperature chart
-# -----------------------------
+#TEMP CHART ------------------------------------------------------
 
 temp_zoom = alt.selection_interval(
     name="temp_zoom",
@@ -931,9 +909,7 @@ temp_chart = style_chart(
     height=320
 )
 
-# -----------------------------
-# Mouse chart
-# -----------------------------
+# MOUSE CHART!------------------------------
 
 mouse_zoom = alt.selection_interval(
     name="mouse_zoom",
@@ -1048,9 +1024,7 @@ with col2:
 
 st.altair_chart(mouse_chart, use_container_width=True)
 
-# ============================================================
-# RELATIONSHIP GRAPHS
-# ============================================================
+#-----------------comparatiev graphs 
 
 custom_heading("Relationship Between Lyme Disease, Temperature, and White-Footed Mouse Occurrence")
 
@@ -1070,7 +1044,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# One-year lag dataframe
+#  1 year lagg
 temp_lag = temp[["state", "year", "avg_temp_F"]].copy()
 temp_lag["year"] = temp_lag["year"] + 1
 temp_lag = temp_lag.rename(columns={"avg_temp_F": "previous_year_avg_temp_F"})
@@ -1090,7 +1064,7 @@ lag_df = lag_df[
     (lag_df["region"] != "Other")
 ].copy()
 
-# Triple variable dataframe
+# triple variable dataframe
 scatter_df = (
     lyme.merge(
         temp[["state", "year", "avg_temp_F"]],
@@ -1246,9 +1220,8 @@ else:
     relationship_charts = style_combined_chart(relationship_charts)
 
     st.altair_chart(relationship_charts, use_container_width=True)
-# ============================================================
-# CUSTOM SCATTERPLOT BUILDER
-# ============================================================
+
+#--------custom stuff
 
 custom_heading("Custom Scatterplot Builder")
 
