@@ -230,7 +230,7 @@ REGION_COLORS = {
 
 #load file path -------------
 
-BASE = Path("/workspaces/termproject-lyme/Files")
+BASE = Path(__file__).parent / "Files"
 
 LYME_XLSX = BASE / "lyme_1992_2023_state_year_cases_wide_clean.xlsx"
 LYME_CSV = BASE / "lyme_1992_2023_state_year_cases_wide_FINAL.csv"
