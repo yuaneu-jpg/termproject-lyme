@@ -336,7 +336,7 @@ LYME_XLSX = BASE / "lyme_1992_2023_state_year_cases_wide_clean.xlsx"
 LYME_CSV = BASE / "lyme_1992_2023_state_year_cases_wide_FINAL.csv"
 TEMP_CSV = BASE / "combined_state_average_temperature_1992_2023_all_states.csv"
 MOUSE_CSV = BASE / "gbif_white_footed_mouse_state_year_1992_2023.csv"
-LYME_IMAGE = Path("/workspaces/termproject-lyme/Files/0QDJuun3Jawv6Lnz4dFrF8Fe3M.jpg")
+LYME_IMAGE = BASE / "0QDJuun3Jawv6Lnz4dFrF8Fe3M.jpg"
 
 # sort region
 STATE_TO_ABBR = {
