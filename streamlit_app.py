@@ -11,10 +11,14 @@ st.set_page_config(
 
 alt.data_transformers.disable_max_rows()
 
-#HTML stuff---------------------
+# HTML stuff ---------------------
 st.markdown(
     """
     <style>
+    html {
+        font-size: 14px;
+    }
+
     html, body, [class*="css"] {
         font-family: Helvetica, Arial, sans-serif !important;
     }
@@ -24,12 +28,27 @@ st.markdown(
         color: #111111 !important;
     }
 
+    header[data-testid="stHeader"] {
+        background: transparent !important;
+        height: 0rem !important;
+    }
+
+    div[data-testid="stToolbar"] {
+        display: none !important;
+        visibility: hidden !important;
+        height: 0rem !important;
+    }
+
+    div[data-testid="stDecoration"] {
+        display: none !important;
+    }
+
     .block-container {
-        padding-top: 2.5rem;
-        padding-bottom: 4rem;
-        padding-left: 4rem;
-        padding-right: 4rem;
-        max-width: 1400px;
+        padding-top: 2.2rem;
+        padding-bottom: 2rem;
+        padding-left: 2.2rem;
+        padding-right: 2.2rem;
+        max-width: 1600px;
         position: relative;
         z-index: 2;
     }
@@ -62,25 +81,25 @@ st.markdown(
 
     h1 {
         font-family: Helvetica, Arial, sans-serif !important;
-        font-size: 3rem !important;
+        font-size: 2.3rem !important;
         font-weight: 500 !important;
-        line-height: 1.08 !important;
+        line-height: 1.02 !important;
         letter-spacing: -0.04em !important;
         color: #111111 !important;
-        margin-bottom: 0.5rem !important;
+        margin-bottom: 0.25rem !important;
     }
 
     h2 {
         font-family: Helvetica, Arial, sans-serif !important;
-        font-size: 1.8rem !important;
+        font-size: 1.35rem !important;
         font-weight: 500 !important;
         letter-spacing: -0.025em !important;
         color: #111111 !important;
         border: 1.5px solid #111111;
-        padding: 1rem 1.25rem;
+        padding: 0.65rem 0.9rem;
         background-color: rgba(255, 255, 255, 0.94);
-        margin-top: 2rem !important;
-        margin-bottom: 1rem !important;
+        margin-top: 1rem !important;
+        margin-bottom: 0.55rem !important;
     }
 
     p, li, label, div, span {
@@ -89,24 +108,26 @@ st.markdown(
 
     .custom-heading {
         font-family: Helvetica, Arial, sans-serif !important;
-        font-size: 1.8rem !important;
+        font-size: 1.35rem !important;
         font-weight: 500 !important;
         letter-spacing: -0.025em !important;
         color: #111111 !important;
         border: 1.5px solid #111111;
-        padding: 1.35rem 1.6rem;
+        padding: 0.65rem 0.9rem;
         background-color: rgba(255, 255, 255, 0.94);
-        margin-top: 3rem;
-        margin-bottom: 1.2rem;
-        line-height: 1.25;
+        margin-top: 1.25rem;
+        margin-bottom: 0.55rem;
+        line-height: 1.15;
     }
 
     .section-card {
         border: 1.5px solid #111111;
         background-color: rgba(255, 255, 255, 0.96);
-        padding: 1.2rem 1.4rem;
-        margin-bottom: 1.2rem;
+        padding: 0.65rem 0.85rem;
+        margin-bottom: 0.65rem;
         color: #111111 !important;
+        font-size: 1rem;
+        line-height: 1.3;
     }
 
     .intro-card {
@@ -115,26 +136,77 @@ st.markdown(
         border-right: 1.5px solid #111111;
         border-bottom: 1.5px solid #111111;
         background-color: rgba(255, 255, 255, 0.97);
-        padding: 1.5rem 1.6rem;
-        margin-top: 1.4rem;
-        margin-bottom: 1.5rem;
+        padding: 0.8rem 1rem;
+        margin-top: 0.65rem;
+        margin-bottom: 0.75rem;
         color: #111111 !important;
     }
 
     .intro-title {
-        font-size: 2.35rem;
+        font-size: 1.55rem;
         font-weight: 600;
-        line-height: 1.08;
+        line-height: 1.03;
         letter-spacing: -0.035em;
         color: #d9474b;
-        margin-bottom: 0.6rem;
+        margin-bottom: 0.35rem;
+    }
+
+    .highlight-red {
+        color: #d9474b;
+        font-weight: 600;
+    }
+
+    .highlight-box {
+        background-color: rgba(217, 71, 75, 0.14);
+        padding: 0.05rem 0.25rem;
+        font-weight: 600;
     }
 
     .intro-body {
         font-size: 1rem;
-        line-height: 1.55;
+        line-height: 1.32;
         color: #111111;
-        max-width: 980px;
+        max-width: 1180px;
+    }
+
+    .lyme-image-card {
+        border: 1.5px solid #111111;
+        background-color: rgba(255, 255, 255, 0.96);
+        padding: 0.55rem;
+        margin-bottom: 0.65rem;
+    }
+
+    .lyme-image-caption {
+        font-size: 0.72rem;
+        line-height: 1.25;
+        color: #111111;
+        margin-top: 0.35rem;
+    }
+
+    .graph-note {
+        border: 1.5px solid #111111;
+        background-color: rgba(255, 255, 255, 0.96);
+        padding: 0.65rem 0.7rem;
+        margin-top: 0;
+        margin-bottom: 0.65rem;
+        font-size: 0.74rem;
+        line-height: 1.28;
+        color: #111111 !important;
+        min-height: 100px;
+        position: relative;
+        z-index: 3;
+    }
+
+    .graph-note-title {
+        font-size: 0.82rem;
+        font-weight: 600;
+        color: #d9474b;
+        margin-bottom: 0.35rem;
+        line-height: 1.15;
+    }
+
+    .graph-note-body {
+        color: #111111;
     }
 
     section[data-testid="stSidebar"] {
@@ -175,12 +247,42 @@ st.markdown(
     div[data-testid="stAltairChart"] {
         background-color: rgba(255, 255, 255, 0.96);
         border: 1.5px solid #111111;
-        padding: 1rem;
-        margin-bottom: 1.5rem;
+        padding: 0.85rem 0.45rem 0.45rem 0.45rem;
+        margin-bottom: 0.65rem;
+        overflow: visible !important;
+    }
+
+    div[data-testid="stAltairChart"] > div {
+        overflow: visible !important;
+    }
+
+    div[data-testid="stAltairChart"] svg {
+        overflow: visible !important;
+    }
+
+    div[data-testid="stImage"] {
+        border: 1.5px solid #111111;
+        background-color: rgba(255, 255, 255, 0.96);
+        padding: 0.55rem;
+        margin-bottom: 0.65rem;
+    }
+
+    div[data-testid="stImage"] img {
+        display: block;
     }
 
     .stMarkdown, .stText, .stCaption {
         color: #111111 !important;
+    }
+
+    div[data-testid="stVerticalBlock"] {
+        gap: 0.45rem !important;
+    }
+
+    div[data-testid="column"] {
+        gap: 0.5rem !important;
+        position: relative !important;
+        z-index: 1 !important;
     }
 
     [data-testid="stMarkdownContainer"] {
@@ -211,8 +313,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-#color theme
-
+# color theme
 LYME_RED = "#d9474b"
 TEMP_RED = "#c85c5c"
 MOUSE_RED = "#a94442"
@@ -228,17 +329,16 @@ REGION_COLORS = {
     "West": "#8ab7a1"
 }
 
-#load file path -------------
-
+# load file path
 BASE = Path(__file__).parent / "Files"
 
 LYME_XLSX = BASE / "lyme_1992_2023_state_year_cases_wide_clean.xlsx"
 LYME_CSV = BASE / "lyme_1992_2023_state_year_cases_wide_FINAL.csv"
 TEMP_CSV = BASE / "combined_state_average_temperature_1992_2023_all_states.csv"
 MOUSE_CSV = BASE / "gbif_white_footed_mouse_state_year_1992_2023.csv"
+LYME_IMAGE = Path("/workspaces/termproject-lyme/Files/0QDJuun3Jawv6Lnz4dFrF8Fe3M.jpg")
 
-#sort region
-
+# sort region
 STATE_TO_ABBR = {
     "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR",
     "California": "CA", "Colorado": "CO", "Connecticut": "CT", "Delaware": "DE",
@@ -256,6 +356,7 @@ STATE_TO_ABBR = {
 }
 
 ABBR_TO_STATE = {v: k for k, v in STATE_TO_ABBR.items()}
+
 
 def normalize_state(value):
     if pd.isna(value):
@@ -291,8 +392,8 @@ def assign_region(state):
     else:
         return "Other"
 
-# YEAR FOCUS CHANGE SIDEBAR------------------------------
 
+# YEAR FOCUS CHANGE SIDEBAR
 st.sidebar.title("Change Year Focus")
 
 year_range = st.sidebar.slider(
@@ -302,26 +403,68 @@ year_range = st.sidebar.slider(
     value=(1992, 2023)
 )
 
-#HEADLINE _---------------------------
-
-st.title("Climate Change and Lyme Disease")
+# HEADLINE
+st.title("Climate Change and Lyme Disease in the US")
 
 st.markdown(
     """
     <div class="intro-card">
         <div class="intro-title">Lyme has been on an increase in the last 3 decades.</div>
         <div class="intro-body">
-            Climate change is a devastating anthropogenic phenomenon that strikes the natural world through a gamut of mechanisms. One aspect is the increase in zoonotic diseases through the creation of conditions that enable greater transmission from host to human. An example of a prominent zoonotic disease in North America is Lyme borreliosis (AKA Lyme disease), spread through the bites of infected blacklegged ticks that are carried through reservoir hosts such as white-tailed deer and white-footed mice (the principal reservoir host).
-            This dashboard is an investigation into how climate change is one of the causes for the rise in Lyme disease cases in the US – focusing on increase in temperature across each state and unconventional migration behavior of reservoir hosts. 
-            These relationships can be examined through foundational knowledge in that warmer conditions foster Lyme transmission and reservoir hosts carry Lyme across their usual containment area furthering host to human infections. 
+            Lyme Borreliosis AKA Lyme Disease can cause <b>life-threatening complications</b>, including heart and neurological disorders. Although rarely fatal, the CDC has observed that Lyme disease
+            has had <span class="highlight-red"> a rising trend </span> of incidence in the US. This brings us to another growing concern - climate change - an anthropogenic phenomenon that strikes the natural world through a gamut of mechanisms. In this investigation, we can observe
+            a rising trend in <span class="highlight-red"> average temperature </span> and <span class="highlight-red"> white-footed mouse occurences </span> (occurence defined by an encounter with a human being). Utilizing data sets from the National Weather Service, CDC, and GBIF, this interactive dashboard explores the relationships climate change (in the form of global warming and habitat destruction) has with Lyme.
         </div>
     </div>
     """,
     unsafe_allow_html=True
 )
 
-#DEFINE FUNCTIONS HERE------------------------------------------
+# INTRODUCTION TO LYME SECTION
+st.markdown(
+    """
+    <div class="custom-heading">Introduction to Lyme Disease</div>
+    """,
+    unsafe_allow_html=True
+)
 
+lyme_intro_col, lyme_image_col = st.columns([2.2, 1])
+
+with lyme_intro_col:
+    st.markdown(
+        """
+        <div class="section-card">
+        <b>Lyme disease</b> is a vector-borne zoonotic disease most commonly associated with infected blacklegged ticks. 
+        Its transmission cycle depends on relationships among ticks, reservoir hosts, larger mammal hosts, and human exposure. 
+        <span class="highlight-red"> White-footed mice </span> are especially important because they are the <span class="highlight-red"> principal reservoir hosts </span> that help maintain the pathogen through exposure. GBIF records indicate an observation of a species by a human, thus acting as a quantified data set for human exposure.
+        <br><br>
+         Let's explore <span class="highlight-red"> Lyme disease incidence, rising temperatures, and principal reservoir host occurence </span> changing across time and region.
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+with lyme_image_col:
+    if LYME_IMAGE.exists():
+        st.image(
+            LYME_IMAGE,
+            caption="Source: CDC",
+            use_container_width=True
+        )
+    else:
+        st.markdown(
+            """
+            <div class="lyme-image-card">
+                <div class="graph-note-title">Image placeholder</div>
+                <div class="lyme-image-caption">
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
+
+# DEFINE FUNCTIONS HERE
 def read_csv_safe(path):
     for enc in ["utf-8", "utf-8-sig", "latin1", "cp1252"]:
         try:
@@ -438,7 +581,8 @@ def style_chart(chart, width=520, height=320):
     return chart.properties(
         width=width,
         height=height,
-        background="white"
+        background="white",
+        padding={"top": 18, "left": 8, "right": 8, "bottom": 8}
     ).configure_axis(
         labelFont="Helvetica",
         titleFont="Helvetica",
@@ -446,17 +590,22 @@ def style_chart(chart, width=520, height=320):
         domainColor=DARK,
         tickColor=DARK,
         labelColor=DARK,
-        titleColor=DARK
+        titleColor=DARK,
+        labelFontSize=10,
+        titleFontSize=11
     ).configure_title(
         font="Helvetica",
-        fontSize=16,
+        fontSize=12,
         color=DARK,
-        anchor="middle"
+        anchor="middle",
+        offset=8
     ).configure_legend(
         labelFont="Helvetica",
         titleFont="Helvetica",
         labelColor=DARK,
-        titleColor=DARK
+        titleColor=DARK,
+        labelFontSize=10,
+        titleFontSize=11
     ).configure_view(
         stroke=None
     )
@@ -464,7 +613,8 @@ def style_chart(chart, width=520, height=320):
 
 def style_combined_chart(chart):
     return chart.properties(
-        background="white"
+        background="white",
+        padding={"top": 18, "left": 8, "right": 8, "bottom": 8}
     ).configure_axis(
         labelFont="Helvetica",
         titleFont="Helvetica",
@@ -472,17 +622,22 @@ def style_combined_chart(chart):
         domainColor=DARK,
         tickColor=DARK,
         labelColor=DARK,
-        titleColor=DARK
+        titleColor=DARK,
+        labelFontSize=10,
+        titleFontSize=11
     ).configure_title(
         font="Helvetica",
-        fontSize=16,
+        fontSize=12,
         color=DARK,
-        anchor="middle"
+        anchor="middle",
+        offset=8
     ).configure_legend(
         labelFont="Helvetica",
         titleFont="Helvetica",
         labelColor=DARK,
-        titleColor=DARK
+        titleColor=DARK,
+        labelFontSize=10,
+        titleFontSize=11
     ).configure_view(
         stroke=None
     )
@@ -496,12 +651,23 @@ def custom_heading(text):
         unsafe_allow_html=True
     )
 
-#ALL DATA PUT HERE--------------------------------------------------------
 
+def graph_note(title, body):
+    st.markdown(
+        f"""
+        <div class="graph-note">
+            <div class="graph-note-title">{title}</div>
+            <div class="graph-note-body">{body}</div>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+
+# ALL DATA PUT HERE
 lyme, temp, mouse = load_data()
 
-#national datasets----------------------------------------------------
-
+# national datasets
 national_lyme = (
     lyme.groupby("year", as_index=False)["lyme_cases"]
     .sum()
@@ -547,6 +713,7 @@ national_mouse["mouse_records_ma5"] = (
     .rolling(window=5, center=True)
     .mean()
 )
+
 national_lyme["lyme_cases_binomial"] = binomial_filter(national_lyme["lyme_cases"])
 national_temp["avg_temp_F_binomial"] = binomial_filter(national_temp["avg_temp_F"])
 national_mouse["mouse_records_binomial"] = binomial_filter(
@@ -567,27 +734,37 @@ national_mouse_f = national_mouse[
     (national_mouse["year"] >= start_year) & (national_mouse["year"] <= end_year)
 ].copy()
 
-#intro after explanation---------------------------------------
+lyme_state_year_f = lyme[
+    (lyme["year"] >= start_year) & (lyme["year"] <= end_year)
+].copy()
 
+lyme_state_year_f["state_name"] = (
+    lyme_state_year_f["state"]
+    .map(ABBR_TO_STATE)
+    .fillna(lyme_state_year_f["state"])
+)
+
+# intro after explanation
 custom_heading("Disease Trend Overview")
 
 st.markdown(
     """
     <div class="section-card">
-    Reported Lyme disease cases form the foundation of this dashboard. Before we continue into comparative analysis with aspects of climate change, let's see how Lyme has been trending across the US from 1992-2023, based on available data from the CDC.
-    We observe that there is a rising increase in reported cases, why would that be? 
+    Reported Lyme disease cases form the foundation of this dashboard. Before we continue into comparative analysis with aspects of climate change, let's see how Lyme has been trending across the US from <span class="highlight-red"> 1992-2023 </span>, based on available data from the CDC.
+    We observe that there is a <span class="highlight-red"> rising increase </span> in reported cases as given by the <b> raw trendline </b> below. 
     </div>
     """,
     unsafe_allow_html=True
 )
 
-intro_chart_placeholder = st.empty()
-
 intro_trend_type = "Raw trendline"
-intro_zoom = alt.selection_interval(
-    name="intro_zoom",
-    bind="scales",
-    encodings=["x"]
+
+year_click = alt.selection_point(
+    name="year_click",
+    fields=["year"],
+    empty=True,
+    on="click",
+    clear="dblclick"
 )
 
 intro_base = alt.Chart(national_lyme_f).encode(
@@ -653,12 +830,16 @@ if intro_trend_type == "Raw trendline":
     intro_layers.append(
         intro_base.mark_circle(
             color=LYME_RED,
-            size=55,
-            opacity=0.85
+            size=50
         ).encode(
             y=alt.Y(
                 "lyme_cases:Q",
                 scale=alt.Scale(domain=[0, 100000])
+            ),
+            opacity=alt.condition(
+                year_click,
+                alt.value(0.9),
+                alt.value(0.3)
             ),
             tooltip=[
                 alt.Tooltip("year:Q", title="Year", format="d"),
@@ -705,24 +886,131 @@ elif intro_trend_type == "Binomial filter":
         )
     )
 
-intro_lyme_chart = style_chart(
-    alt.layer(*intro_layers).add_params(intro_zoom).properties(
-        title=f"Total Aggregated Reported Lyme Disease Cases in the U.S., 1992–2023: {intro_trend_type}"
-    ),
-    width=1080,
-    height=430
+intro_line_chart = (
+    alt.layer(*intro_layers)
+    .add_params(year_click)
+    .properties(
+        title=f"Total Aggregated Reported Lyme Disease Cases in the U.S., 1992–2023: {intro_trend_type}",
+        width=750,
+        height=210
+    )
 )
 
-intro_chart_placeholder.altair_chart(intro_lyme_chart, use_container_width=True)
+top3_title = (
+    alt.Chart(lyme_state_year_f)
+    .transform_filter(year_click)
+    .transform_aggregate(
+        min_year="min(year)",
+        max_year="max(year)"
+    )
+    .transform_calculate(
+        title_text=(
+            "datum.min_year == datum.max_year ? "
+            "'Top 3 states by reported Lyme cases in ' + toString(datum.min_year) : "
+            "'Top 3 states by total reported Lyme cases, ' + toString(datum.min_year) + '–' + toString(datum.max_year)"
+        )
+    )
+    .mark_text(
+        align="center",
+        baseline="middle",
+        font="Helvetica",
+        fontSize=12,
+        fontWeight="bold",
+        color=DARK
+    )
+    .encode(
+        x=alt.value(450),
+        text="title_text:N"
+    )
+    .properties(
+        width=750,
+        height=22
+    )
+)
 
-#national trends intro
+top3_base = (
+    alt.Chart(lyme_state_year_f)
+    .transform_filter(year_click)
+    .transform_aggregate(
+        total_cases="sum(lyme_cases)",
+        groupby=["state", "state_name"]
+    )
+    .transform_window(
+        rank="rank()",
+        sort=[alt.SortField("total_cases", order="descending")]
+    )
+    .transform_filter("datum.rank <= 3")
+)
 
+top3_bars = top3_base.mark_bar(
+    color=LYME_RED,
+    opacity=0.9
+).encode(
+    x=alt.X(
+        "total_cases:Q",
+        title="Reported Lyme Disease Cases"
+    ),
+    y=alt.Y(
+        "state_name:N",
+        title="State",
+        sort="-x"
+    ),
+    tooltip=[
+        alt.Tooltip("state_name:N", title="State"),
+        alt.Tooltip("total_cases:Q", title="Reported Lyme Cases", format=",")
+    ]
+)
+
+top3_labels = top3_base.mark_text(
+    align="left",
+    baseline="middle",
+    dx=4,
+    font="Helvetica",
+    fontSize=10,
+    color=DARK
+).encode(
+    x=alt.X("total_cases:Q"),
+    y=alt.Y("state_name:N", sort="-x"),
+    text=alt.Text("total_cases:Q", format=",.0f")
+)
+
+top3_bar_chart = (
+    alt.layer(top3_bars, top3_labels)
+    .properties(
+        width=750,
+        height=95
+    )
+)
+
+intro_lyme_chart = style_combined_chart(
+    alt.vconcat(
+        intro_line_chart,
+        top3_title,
+        top3_bar_chart,
+        spacing=4
+    ).resolve_scale(
+        y="independent"
+    )
+)
+
+intro_chart_col, intro_note_col = st.columns([5.2, 1])
+
+with intro_chart_col:
+    st.altair_chart(intro_lyme_chart, use_container_width=False)
+
+with intro_note_col:
+    graph_note(
+        "How to use",
+        "Hover over the line to read yearly Lyme case counts. Click a year point to update the Top 3 States chart below. Double-click the line chart to reset the bar chart to totals across the selected year range."
+    )
+
+# national trends intro
 custom_heading("National Trends")
 
 st.markdown(
     """
     <div class="section-card">
-    We utilized different trend filters, raw, binomial, and moving average to conclude that we are seeing an increase in all 3 major variables in this analysis. Without further analysis, this concludes that correlationally, there seems to be an existing pattern of positive growth in all three major categories of Lyme incidence, temperature, and principal host - human contact (given by occurence values, which indicate a meeting between humans and white-footed mouse). 
+    We utilized different trend filters, <span class="highlight-red"> raw, binomial, and moving average </span> to conclude that we are seeing an <b> increase in all 3 major variables </b> in this analysis. Without further analysis, this concludes that correlationally, there seems to be an existing pattern of positive growth in all three major categories of Lyme incidence, temperature, and principal host - human contact. 
     </div>
     """,
     unsafe_allow_html=True
@@ -741,14 +1029,7 @@ with trend_col:
         key="national_trend_type"
     )
 
-#LYME CHART ---------------------------------------------
-
-lyme_zoom = alt.selection_interval(
-    name="lyme_zoom",
-    bind="scales",
-    encodings=["x"]
-)
-
+# LYME CHART
 lyme_base = alt.Chart(national_lyme_f).encode(
     x=alt.X("year:Q", title="Year", axis=alt.Axis(format="d"))
 )
@@ -808,21 +1089,14 @@ else:
     )
 
 lyme_chart = style_chart(
-    lyme_chart_body.add_params(lyme_zoom).properties(
+    lyme_chart_body.properties(
         title=f"Lyme disease cases, 1992–2023: {national_trend_type}"
     ),
     width=520,
-    height=320
+    height=225
 )
 
-#TEMP CHART ------------------------------------------------------
-
-temp_zoom = alt.selection_interval(
-    name="temp_zoom",
-    bind="scales",
-    encodings=["x"]
-)
-
+# TEMP CHART
 temp_base = alt.Chart(national_temp_f).encode(
     x=alt.X("year:Q", title="Year", axis=alt.Axis(format="d"))
 )
@@ -902,21 +1176,14 @@ else:
     )
 
 temp_chart = style_chart(
-    temp_chart_body.add_params(temp_zoom).properties(
+    temp_chart_body.properties(
         title=f"Average temperature, 1992–2023: {national_trend_type}"
     ),
     width=520,
-    height=320
+    height=225
 )
 
-# MOUSE CHART!------------------------------
-
-mouse_zoom = alt.selection_interval(
-    name="mouse_zoom",
-    bind="scales",
-    encodings=["x"]
-)
-
+# MOUSE CHART
 mouse_base = alt.Chart(national_mouse_f).encode(
     x=alt.X("year:Q", title="Year", axis=alt.Axis(format="d"))
 )
@@ -1007,44 +1274,51 @@ else:
     )
 
 mouse_chart = style_chart(
-    mouse_chart_body.add_params(mouse_zoom).properties(
+    mouse_chart_body.properties(
         title=f"White-footed mouse occurrence records, 1992–2023: {national_trend_type}"
     ),
     width=1080,
-    height=340
+    height=235
 )
 
-col1, col2 = st.columns(2)
+national_chart_col, national_note_col = st.columns([6, 1.05])
 
-with col1:
-    st.altair_chart(lyme_chart, use_container_width=True)
+with national_chart_col:
+    col1, col2 = st.columns(2)
 
-with col2:
-    st.altair_chart(temp_chart, use_container_width=True)
+    with col1:
+        st.altair_chart(lyme_chart, use_container_width=True)
 
-st.altair_chart(mouse_chart, use_container_width=True)
+    with col2:
+        st.altair_chart(temp_chart, use_container_width=True)
 
-#-----------------comparatiev graphs 
+    st.altair_chart(mouse_chart, use_container_width=True)
 
+with national_note_col:
+    graph_note(
+        "How to use",
+        "Use the dropdown above to switch among raw trendline, 5-year moving average, and binomial filter. A moving average assigns equal weight to all samples in a window to smooth data, while a binomial filter applies a bell-curve of weights, both reduce variation of raw trendline. The sidebar year slider changes all three charts together."
+    )
+
+# comparative graphs
 custom_heading("Relationship Between Lyme Disease, Temperature, and White-Footed Mouse Occurrence")
 
 st.markdown(
     """
     <div class="section-card">
-    This section compares Lyme disease with temperature and reservoir-host variables. The first
+    This section compares <span class="highlight-red"> Lyme disease with temperature and reservoir-host variables </span>. The first
     scatterplot uses a one-year lag, comparing the previous year's average temperature with
-    the current year's Lyme disease cases. This lag is important to keep in mind that temperature does not have immediate effects in nature and changes can realize after time passes and the envrionment adapts.
-    The second scatterplot compares temperature,
-    Lyme disease cases, and white-footed mouse occurrence records together in a triple-variable scatter.
-    We observe that, nationally, there exists a normal distribution across both graphs, where Lyme incidence explodes at a certain temperature threshold. Users can additionally observe regional trends and patterns.
-    Click any point
-    in either graph to isolate that point's region across both graphs. Click empty space to reset.
+    the current year's Lyme disease cases. This lag is important to keep in mind that <b> temperature does not have immediate effects in nature </b>and changes can realize after time passes and the envrionment adapts.
+    The second scatterplot compares <span class="highlight-red"> temperature,
+    Lyme disease cases, and white-footed mouse occurrence records </span> together in a <b>triple-variable scatter</b>.
+    We observe that, nationally, there exists a <b>normal distribution </b>across both graphs, where Lyme incidence explodes at a <b>certain temperature threshold</b>. Users can additionally observe regional trends and patterns.
+    
     </div>
     """,
     unsafe_allow_html=True
 )
 
-#  1 year lagg
+# 1 year lag
 temp_lag = temp[["state", "year", "avg_temp_F"]].copy()
 temp_lag["year"] = temp_lag["year"] + 1
 temp_lag = temp_lag.rename(columns={"avg_temp_F": "previous_year_avg_temp_F"})
@@ -1156,7 +1430,7 @@ else:
         .transform_filter(region_click)
         .properties(
             width=1080,
-            height=430,
+            height=290,
             title="One-Year Lag: Previous Year Temperature vs. Current Year Lyme Disease Cases"
         )
     )
@@ -1202,7 +1476,7 @@ else:
         .transform_filter(region_click)
         .properties(
             width=1080,
-            height=520,
+            height=330,
             title="Temperature, Lyme Cases, and White-Footed Mouse Occurrence Records by Region"
         )
     )
@@ -1219,18 +1493,26 @@ else:
 
     relationship_charts = style_combined_chart(relationship_charts)
 
-    st.altair_chart(relationship_charts, use_container_width=True)
+    relationship_chart_col, relationship_note_col = st.columns([6, 1.05])
 
-#--------custom stuff
+    with relationship_chart_col:
+        st.altair_chart(relationship_charts, use_container_width=True)
 
+    with relationship_note_col:
+        graph_note(
+            "How to use",
+            "Click a point to isolate its region across both scatterplots. Click empty chart space to reset. Hover to see state, year, region, temperature, Lyme cases, and mouse records."
+        )
+
+# custom stuff
 custom_heading("Custom Scatterplot Builder")
 
 st.markdown(
     """
     <div class="section-card">
-    Many relationships between the three focus areas in this dashboard are left out, however, users can generate their own scatter plots to view these relationships at hand.
-    A limitation of this study is that records of Lyme incidence spans only 3 decades, and earlier data sets are not available. Thus, many relationships cannot be substatiated due to fluctuations in all three variables.
-    All in all, users can preem and discover relationships of their own, noting that relationships can be sparsely correlated due to aforementioned limitations. Please kindly keep this in mind while forming extrapolations.
+    <b>Many relationships between the three focus areas in this dashboard are left out</b>, however, users can generate their own scatter plots to view these relationships at hand.
+    A limitation of this study is that records of <span class="highlight-red"> Lyme incidence spans only 3 decades</span>, and earlier data sets are not available. Thus, many relationships cannot be substatiated due to fluctuations in all three variables.
+    All in all, users can preem and <b>discover relationships of their own</b>, noting that relationships can be sparsely correlated due to aforementioned limitations. Please kindly keep this in mind while forming extrapolations.
     </div>
     """,
     unsafe_allow_html=True
@@ -1309,11 +1591,6 @@ elif custom_scatter_df.empty:
     st.warning("Select at least one region to display the custom scatterplot.")
 
 else:
-    custom_scatter_zoom = alt.selection_interval(
-        name="custom_scatter_zoom",
-        bind="scales"
-    )
-
     custom_region_click = alt.selection_point(
         name="custom_region_click",
         fields=["region"],
@@ -1404,10 +1681,10 @@ else:
         alt.Chart(custom_scatter_df)
         .mark_circle(stroke=DARK, strokeWidth=0.25)
         .encode(**scatter_encoding)
-        .add_params(custom_scatter_zoom, custom_region_click)
+        .add_params(custom_region_click)
         .properties(
             width=1080,
-            height=520,
+            height=330,
             title=f"{y_variable_label} vs. {x_variable_label}"
         )
     )
@@ -1415,8 +1692,18 @@ else:
     custom_scatter_chart = style_chart(
         custom_scatter_chart,
         width=1080,
-        height=520
+        height=330
     )
 
-    st.altair_chart(custom_scatter_chart, use_container_width=True)
+    custom_chart_col, custom_note_col = st.columns([6, 1.05])
+
+    with custom_chart_col:
+        st.altair_chart(custom_scatter_chart, use_container_width=True)
+
+    with custom_note_col:
+        graph_note(
+            "How to use",
+            "Choose x-axis, y-axis, and optional point size variables above. Filter regions with the multiselect. Click a region point to emphasize that region; click empty space to reset."
+        )
+
     st.caption("Note: Climate change in this project is defined as the recent long-term shifts in climate systems caused by anthropogenic burning of fossil fuels and destruction of habitats, resulting in global warming and other disastrous effects to ecosystems.")
